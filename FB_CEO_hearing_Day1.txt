@@ -1,0 +1,574 @@
+ Chairman Grassley, Chairman Thune, Ranking Member Feinstein, Ranking Member Nelson and members of the committee, we face a number of important issues around privacy, safety and democracy. And you will rightfully have some hard questions for me to answer. Before I talk about the steps we're taking to address them, I want to talk about how we got here.
+Facebook is an idealistic and optimistic company. For most of our existence, we focused on all of the good that connecting people can do. And, as Facebook has grown, people everywhere have gotten a powerful new tool for staying connected to the people they love, for making their voices heard and for building communities and businesses.
+Just recently, we've seen the “Me Too” movement and the March for our Lives organized, at least in part, on Facebook. After Hurricane Harvey, people came together to raise more than $20 million for relief. And more than 70 million businesses — small business use Facebook to create jobs and grow.
+But it's clear now that we didn't do enough to prevent these tools from being used for harm, as well. And that goes for fake news, for foreign interference in elections, and hate speech, as well as developers and data privacy.
+ We didn't take a broad enough view of our responsibility, and that was a big mistake. And it was my mistake. And I'm sorry. I started Facebook, I run it, and I'm responsible for what happens here.
+So, now, we have to go through our — all of our relationship with people and make sure that we're taking a broad enough view of our responsibility.
+It's not enough to just connect people. We have to make sure that those connections are positive. It's not enough to just give people a voice. We need to make sure that people aren't using it to harm other people or to spread misinformation. And it's not enough to just give people control over their information. We need to make sure that the developers they share it with protect their information, too.
+Across the board, we have a responsibility to not just build tools, but to make sure that they're used for good. It will take some time to work through all the changes we need to make across the company, but I'm committed to getting this right. This includes the basic responsibility of protecting people's information, which we failed to do with Cambridge Analytica.
+So here are a few things that we are doing to address this and to prevent it from happening again.
+First, we're getting to the bottom of exactly what Cambridge Analytica did, and telling everyone affected. What we know now is that Cambridge Analytica improperly accessed some information about millions of Facebook members by buying it from an app developer.
+That information — this was information that people generally share publicly on their Facebook pages, like names and their profile picture and the pages they follow.
+When we first contacted Cambridge Analytica, they told us that they had deleted the data. About a month ago, we heard new reports that suggested that wasn't true. And, now, we're working with governments in the U.S., the U.K. and around the world to do a full audit of what they've done and to make sure they get rid of any data they may still have.
+Second, to make sure no other app developers out there are misusing data, we're now investigating every single app that had access to a large amount of information in the past. And, if we find that someone improperly used data, we're going to ban them from Facebook and tell everyone affected.
+Third, to prevent this from ever happening again, going forward, we're making sure that developers can't access as much information now. The good news here is that we already made big changes to our platform in 2014 that would have prevented this specific situation with Cambridge Analytica from occurring again today.
+But there's more to do, and you can find more details on the steps we're taking in my written statement.
+My top priority has always been our social mission of connecting people, building community and bringing the world closer together. Advertisers and developers will never take priority over that, as long as I am running Facebook.
+I started Facebook when I was in college. We've come a long way since then. We now serve more than 2 billion people around the world. And, every day, people use our services to stay connected with the people that matter to them most.
+I believe deeply in what we are doing. And I know that, when we address these challenges we'll look back and view helping people connect and giving more people a voice as a positive force in the world.
+I realize the issues we're talking about today aren't just issues for Facebook and our community. They're issues and challenges for all of us as Americans.
+Thank you for having me here today, and I'm ready to take your questions.
+ Mr. Chairman, thank you.
+As I mentioned, we're now conducting a full investigation into every single app that had a — access to a large amount of information, before we locked down platform to prevent developers from accessing this information around 2014.
+We believe that we're going to be investigating many apps, tens of thousands of apps. And, if we find any suspicious activity, we're going to conduct a full audit of those apps to understand how they're using their data and if they're doing anything improper. If we find that they're doing anything improper, we'll ban them from Facebook and we will tell everyone affected.
+As for past activity, I don't have all the examples of apps that we've banned here, but if you would like, I can have my team follow up with you after this.
+ Mr. Chairman, yes we have. I don't have the exact figure on how many times we have. But, overall, the way we've enforced our platform policies in the past is we have looked at patterns of how apps have used our APIs and accessed information, as well as looked into reports that people have made to us about apps that might be doing sketchy things.
+Going forward, we're going to take a more proactive position on this and do much more regular stock checks and other reviews of apps, as well as increasing the amount of audits that we do. And, again, I can make sure that our team follows up with you on anything about the specific past stats that would be interesting.
+ Mr. Chairman, I will have my team follow up with you on what information we have.
+ Mr. Chairman, I believe it's important to tell people exactly how the information that they share on Facebook is going to be used. That's why, every single time you go to share something on Facebook, whether it's a photo in Facebook, or a message — in Messenger or What's App, every single time, there's a control right there about who you're going to be sharing it with — whether it's your friends or public or a specific group — and you can — you can change that and control that in line.
+To your broader point about the privacy policy, this gets into an — an issue that I — I think we and others in the tech industry have found challenging, which is that long privacy policies are very confusing. And if you make it long and spell out all the detail, then you're probably going to reduce the percent of people who read it and make it accessible to them.
+So, one of the things that — that we've struggled with over time is to make something that is as simple as possible so people can understand it, as well as giving them controls in line in the product in the context of when they're trying to actually use them, taking into account that we don't expect that most people will want to go through and read a full legal document.
+ Senator, people have a control over how their information is used in ads in the product today. So if you want to have an experience where your ads aren't — aren't targeted using all the information that we have available, you can turn off third-party information.
+What we found is that even though some people don't like ads, people really don't like ads that aren't relevant. And while there is some discomfort for sure with using information in making ads more relevant, the overwhelming feedback that we get from our community is that people would rather have us show relevant content there than not.
+So we offer this control that — that you're referencing. Some people use it. It's not the majority of people on Facebook. And — and I think that that's — that's a good level of control to offer.
+I think what Sheryl was saying was that, in order to not run ads at all, we would still need some sort of business model.
+ Yes, senator.
+Although to be clear, we don't offer an option today for people to pay to not show ads. We think offering an ad-supported service is the most aligned with our mission of trying to help connect everyone in the world, because we want to offer a free service that everyone can afford.
+ That's the only way that we can reach billions of people.
+ No, senator. Actually, at — the first line of our Terms of Service say that you control and own the information and content that you put on Facebook.
+ When we learned in 2015 that Cambridge Analytica had bought data from an app developer on Facebook that people had shared it with, we did take action.
+We took down the app, and we demanded that both the app developer and Cambridge Analytica delete and stop using any data that they had. They told us that they did this. In retrospect, it was clearly a mistake to believe them ...
+ ... and we should have followed up and done a full audit then. And that is not a mistake that we will make.
+ Senator, when we heard back from Cambridge Analytica that they had told us that they weren't using the data and had deleted it, we considered it a closed case. In retrospect, that was clearly a mistake.
+We shouldn't have taken their word for it, and we've updated our policies and how we're going to operate the company to make sure that we don't make that mistake again.
+ No, senator, for the same reason — that we'd considered it a closed — a closed case.
+ Yes.
+ Thank you, Mr. Chairman. So we have made a lot of mistakes in running the company. I think it's — it's pretty much impossible, I — I believe, to start a company in your dorm room and then grow it to be at the scale that we're at now without making some mistakes.
+And, because our service is about helping people connect and information, those mistakes have been different in — in how they — we try not to make the same mistake multiple times. But in general, a lot of the mistakes are around how people connect to each other, just because of the nature of the service.
+ Overall, I would say that we're going through a broader philosophical shift in how we approach our responsibility as a company. For the first 10 or 12 years of the company, I viewed our responsibility as primarily building tools that, if we could put those tools in people's hands, then that would empower people to do good things.
+What I think we've learned now across a number of issues — not just data privacy, but also fake news and foreign interference in elections — is that we need to take a more proactive role and a broader view of our responsibility.
+It's not enough to just build tools. We need to make sure that they're used for good. And that means that we need to now take a more active view in policing the ecosystem and in watching and kind of looking out and making sure that all of the members in our community are using these tools in a way that's going to be good and healthy.
+So, at the end of the day, this is going to be something where people will measure us by our results on this. It's not that I expect anything that I say here today — to necessarily change people's view.
+But I'm committed to getting this right. And I believe that, over the coming years, once we fully work all these solutions through, people will see real differences.
+ Yes, Mr. Chairman. I'll speak to hate speech, and then I'll talk about enforcing our content policies more broadly. So — actually, maybe, if — if you're okay with it, I'll go in the other order.
+So, from the beginning of the company in 2004 — I started in my dorm room; it was me and my roommate. We didn't have A.I. technology that could look at the content that people were sharing. So — so we basically had to enforce our content policies reactively.
+People could share what they wanted, and then, if someone in the community found it to be offensive or against our policies, they'd flag it for us, and we'd look at it reactively. Now, increasingly, we're developing A.I. tools that can identify certain classes of bad activity proactively and flag it for our team at Facebook.
+By the end of this year, by the way, we're going to have more than 20,000 people working on security and content review, working across all these things. So, when content gets flagged to us, we have those — those people look at it. And, if it violates our policies, then we take it down.
+Some problems lend themselves more easily to A.I. solutions than others. So hate speech is one of the hardest, because determining if something is hate speech is very linguistically nuanced, right?
+It's — you need to understand, you know, what is a slur and what — whether something is hateful not just in English, but the majority of people on Facebook use it in languages that are different across the world.
+Contrast that, for example, with an area like finding terrorist propaganda, which we've actually been very successful at deploying A.I. tools on already.
+Today, as we sit here, 99 percent of the ISIS and Al Qaida content that we take down on Facebook, our A.I. systems flag before any human sees it. So that's a success in terms of rolling out A.I. tools that can proactively police and enforce safety across the community.
+Hate speech — I am optimistic that, over a 5 to 10-year period, we will have A.I. tools that can get into some of the nuances — the linguistic nuances of different types of content to be more accurate in flagging things for our systems.
+But, today, we're just not there on that. So a lot of this is still reactive. People flag it to us. We have people look at it. We have policies to try to make it as not subjective as possible. But, until we get it more automated, there is a higher error rate than I'm happy with.
+ Thank you, senator.
+This is one of my top priorities in 2018 — is to get this right. I — one of my greatest regrets in running the company is that we were slow in identifying the Russian information operations in 2016. We expected them to do a number of more traditional cyber attacks, which we did identify and notify the campaigns that they were trying to hack into them.
+But we were slow at identifying the type of — of new information operations.
+ It was right around the time of the 2016 election itself. So, since then, we — 2018 is — is an incredibly important year for elections. Not just in — with the U.S. midterms, but, around the world, there are important elections — in India, in Brazil, in Mexico, in Pakistan and in Hungary, that — we want to make sure that we do everything we can to protect the integrity of those elections.
+Now, I have more confidence that we're going to get this right, because, since the 2016 election, there have been several important elections around the world where we've had a better record. There was the French presidential election. There was the German election. There was the U.S. Senate Alabama special election last year.
+ So we've deployed new A.I. tools that do a better job of identifying fake accounts that may be trying to interfere in elections or spread misinformation. And, between those three elections, we were able to proactively remove tens of thousands of accounts that — before they — they could contribute significant harm.
+And the nature of these attacks, though, is that, you know, there are people in Russia whose job it is — is to try to exploit our systems and other Internet systems, and other systems, as well.
+So this is an arms race, right? I mean, they're going to keep on getting better at this, and we need to invest in keeping on getting better at this, too, which is why one of things I mentioned before is we're going to have more than 20,000 people, by the end of this year, working on security and content review across the company.
+ Well, you're not allowed to have a fake account on Facebook. Your content has to be authentic. So we build technical tools to try to identify when people are creating fake accounts — especially large networks of fake accounts, like the Russians have — in order to remove all of that content.
+After the 2016 election, our top priority was protecting the integrity of other elections around the world. But, at the same time, we had a parallel effort to trace back to Russia the IRA activity — the Internet Research Agency activity that was — the part of the Russian government that — that did this activity in — in 2016.
+And, just last week, we were able to determine that a number of Russian media organizations that were sanctioned by the Russian regulator were operated and controlled by this Internet Research Agency.
+So we took the step last week — that was a pretty big step for us — of taking down sanctioned news organizations in Russia as part of an operation to remove 270 fake accounts and pages, part of their broader network in Russia, that was — that was actually not targeting international interference as much as — sorry, let me correct that.
+It was primarily targeting — spreading misinformation in Russia itself, as well as certain Russian-speaking neighboring countries.
+ Across — in the IRA specifically, the ones that we've pegged back to the IRA, we can identify the 470 in the American elections in the 270 that we specifically went after in Russia last week.
+There were many others that our systems catch, which are more difficult to attribute specifically to Russian intelligence, but the number would be in the tens of thousands of fake accounts that we remove. And I'm happy to have my team follow up with you on more information, if that would be helpful.
+ Senator, that's a — a great question.
+Cambridge Analytica wasn't using our services in 2015, as far as we can tell. So this is — this is clearly one of the questions that I asked our team, as soon as I learned about this — is why — why did we wait until we found out about the reports last month to — to ban them.
+It's because, as of the time that we learned about their activity in 2015, they weren't an advertiser. They weren't running pages. So we actually had nothing to ban.
+ Senator, yes. There will always be a version of Facebook that is free. It is our mission to try to help connect everyone around the world and to bring the world closer together.
+In order to do that, we believe that we need to offer a service that everyone can afford, and we're committed to doing that.
+ Senator, we run ads.
+ Senator, I think that there are a few categories of legislation that — that make sense to consider.
+Around privacy specifically, there are a few principles that I think it would be useful to — to discuss and potentially codified into law.
+One is around having a simple and practical set of — of ways that you explain what you are doing with data. And we talked a little bit earlier around the complexity of laying out these long privacy policies. It's hard to say that people fully understand something when it's only written out in a long legal document. This needs — the stuff needs to be implemented in a way where people can actually understand it, where consumers can — can understand it, but that can also capture all the nuances of how these services work in a way that doesn't — that's not overly restrictive on — on providing the services. That's one.
+The second is around giving people complete control. This is the most important principle for Facebook: Every piece of content that you share on Facebook, you own and you have complete control over who sees it and — and how you share it, and you can remove it at any time.
+That's why every day, about 100 billion times a day, people come to one of our services and either post a photo or send a message to someone, because they know that they have that control and that who they say it's going to go to is going to be who sees the content.
+And I think that that control is something that's important that I think should apply to — to every service.
+And the third point is — is just around enabling innovation. Because some of the abuse cases that — that are very sensitive, like face recognition, for example — and I feel there's a balance that's extremely important to strike here, where you obtain special consent for sensitive features like face recognition, but don't — but we still need to make it so that American companies can innovate in those areas, or else we're going to fall behind Chinese competitors and others around the world who have different regimes for — for different new features like that.
+ I do.
+ Senator, I have not heard that.
+ Senator, I do not know.
+ Senator, I'm not aware of that.
+ Senator, we provided support to the Trump campaign similar to what we provide to any advertiser or campaign who asks for it.
+ Senator, can you repeat the specific question? I just want to make sure I get specifically what you're asking.
+ Senator, I don't know that our employees were involved with Cambridge Analytica. Although I know that we did help out the Trump campaign overall in sales support in the same way that we do with other companies.
+ Senator, my — I can certainly have my team get back to you on any specifics there that I don't know, sitting here today.
+ No, I do not.
+ Senator, I'm not — I'm not sure, specifically. Overall, I — I do think that these issues around information access are challenging.
+To the specifics about those apps, I'm not really that familiar with what Palantir does. WhatsApp collects very little information and, I — I think, is less likely to have the kind of issues because of the way that the service is architected. But, certainly, I think that these are broad issues across the tech industry.
+ Yes, Senator.
+So data privacy and foreign interference in elections are certainly topics that we have discussed at the board meeting. These are some of the biggest issues that the company has faced, and we feel a huge responsibility to get these right.
+ Senator, I think everyone in the world deserves good privacy protection. And, regardless of whether we implement the exact same regulation, I would guess that it would be somewhat different, because we have somewhat different sensibilities in the U.S. as to other countries.
+We're committed to rolling out the controls and the affirmative consent and the special controls around sensitive types of technology, like face recognition, that are required in GDPR. We're doing that around the world.
+So I think it's certainly worth discussing whether we should have something similar in the U.S. But what I would like to say today is that we're going to go forward and implement that, regardless of what the regulatory outcome is.
+ Senator, this is an important question.
+I would differentiate between ISPs, which I consider to be the pipes of the Internet, and the platforms like Facebook or Google or Twitter, YouTube that are the apps or platforms on top of that.
+I think in general, the expectations that people have of the pipes are somewhat different from the platforms. So there might be areas where there needs to be more regulation in one and less in the other, but I think that there are going to be other places where there needs to be more regulation of the other type.
+Specifically, though, on the pipes, one of the important issues that — that I think we face and have debated is ...
+ ISPs.
+ Yeah.
+So I know net neutrality has been a — a hotly debated topic, and one of the reasons why I have been out there saying that I think that should be the case is because, you know, I look at my own story of when I was getting started building Facebook at Harvard, you know, I only had one option for an ISP to use. And if I had to pay extra in order to make it so that my app could potentially be seen or used by other people, then — then we probably wouldn't be here today.
+ Senator, we have an app called Messenger for sending messages to your Facebook friends. And that app offers people an option to sync their — their text messages into the messenging app, and to make it so that — so basically so you can have one app where it has both your texts and — and your Facebook messages in one place.
+We also allow people the option of ...
+ Yes. It is opt-in.
+ It is opt-in. You — you have to affirmatively say that you want to sync that information before we get access to it.
+ That is correct.
+ I do not know. We can follow up with that.
+ Senator — I — I want to make sure I get this accurate, so it would probably be better to have my team follow up afterwards.
+ I know that the — people use cookies on the Internet, and that you can probably correlate activity between — between sessions.
+We do that for a number of reasons, including security, and including measuring ads to make sure that the ad experiences are the most effective, which, of course, people can opt out of. But I want to make sure that I'm precise in my answer, so let me ...
+ ... follow up with you on that.
+ Yes.
+ Yes.
+ Yes.
+ I have not. I — I have not.
+ I — I believe so. And I want to be careful here, because that — our work with the special counsel is confidential, and I want to make sure that, in an open session, I'm not revealing something that's confidential.
+ Actually, let me clarify that. I actually am not aware of — of a subpoena. I believe that there may be, but I know we're working with them.
+ Senator, are you asking about those specifically?
+ Senator, last week, we actually announced a major change to our ads and pages policies
+ I am not familiar with those pieces of content specifically.
+ We are working on that now. What we're doing is we're going to verify the identity of any advertiser who's running a political or issue-related ad — this is basically what the Honest Ads Act is proposing, and we're following that.
+And we're also going to do that for pages. So ...
+ I — I'm not familiar with those specific cases.
+ I'll have my team get back to you.
+I do think it's worth adding, though, that we're going to do the same verification of identity and location of admins who are running large pages.
+So, that way, even if they aren't going to be buying ads in our system, that will make it significantly harder for Russian interference efforts or other inauthentic efforts ...
+ ... to try to spread misinformation through the network.
+ Senator, what's happening in Myanmar is a terrible tragedy, and we need to do more ...
+(CROSSTALK)
+ Okay.
+ Yes. We're working on this. And there are three specific things that we're doing.
+One is we're hiring dozens of more Burmese-language content reviewers, because hate speech is very language-specific. It's hard to do it without people who speak the local language, and we need to ramp up our effort there dramatically.
+Second is we're working with civil society in Myanmar to identify specific hate figures so we can take down their accounts, rather than specific pieces of content.
+And third is we're standing up a product team to do specific product changes in Myanmar and other countries that may have similar issues in the future to prevent this from happening.
+ Yes, senator, I am.
+ No, senator, I do not. And, as context, Boz wrote that — Boz is what we call him internally — he wrote that as an internal note. We have a lot of discussion internally. I disagreed with it at the time that he wrote it. If you looked at the comments on the internal discussion ...
+ ... the vast majority of people internally did, too.
+ Well, senator, we try to run our company in a way where people can express different opinions internally.
+ Senator, we have a lot of competitors.
+ I think the categories of — did you want just one? I'm not sure I can give one, but can I give a bunch?
+ So there are three categories that I would focus on. One are the other tech platforms — so Google, Apple, Amazon, Microsoft — we overlap with them in different ways.
+ In different ways — different parts of it, yes.
+ Well, there — the second category that I was going to talk about are ...
+(CROSSTALK)
+ Yes, Senator. The average American uses eight different apps to communicate with their friends and stay in touch with people ...
+(CROSSTALK)
+ ... ranging from texting apps, to email, to ...
+ Well, we provide a number of different services.
+ It overlaps with a portion of what we do.
+ It certainly doesn't feel like that to me.
+ Because they were very talented app developers who were making good use of our platform and understood our values.
+ Well, senator, my position is not that there should be no regulation.
+ I think the Internet is increasingly ...
+(CROSSTALK)
+ I think the real question, as the Internet becomes more important in people's lives, is what is the right regulation, not whether there should be or not.
+ I think, if it's the right regulation, then yes.
+ I think that they get things right.
+ Absolutely.
+ Yes. And I'll have my team follow up with you so, that way, we can have this discussion across the different categories where I think that this discussion needs to happen.
+ Yes.
+ I don't think that the average person likely reads that whole document.
+ But I think that there are different ways that we can communicate that, and have a responsibility to do so.
+ Well, senator, I think, in certain areas, that is true. And I think, in other areas, like the core part of what we do — right, if you — if you think about — just, at the most basic level, people come to Facebook, Instagram, WhatsApp, Messenger, about a hundred billion times a day to share a piece of content or a message with a specific set of people.
+And I think that that basic functionality people understand, because we have the controls in line every time, and given the volume of — of — of the activity, and the value that people tell us that they're getting from that, I think that that control in line does seem to be working fairly well.
+Now we can always do better, and there are other — the services are complex, and there is more to it than just — you know, you go and you post a photo, so I — I — I agree that — that in many places we could do better.
+But I think for the quarter of the service, it actually is quite clear.
+ That is correct, senator. And I just want to take a moment before I go into this in more detail to thank you for your leadership on this. This, I think, is an important area for the whole industry to move on.
+The two specific things that we're doing are — one is around transparency, so now you're going to be able to go and click on any advertiser or any page on Facebook and see all of the ads that they're running. So that actually brings advertising online — on Facebook to an even higher standard than what you would have on TV or print media, because there's nowhere where you can see all of the TV ads that someone is running, for example. Whereas you will be able to see now on Facebook whether this campaign or third party is saying different messages to different types of people, and I think that that's a really important element of transparency.
+But the other really important piece is around verifying every single advertiser who's going to be running political or issue ads.
+ We will.
+ I do not have that information with me, but we can follow up with your — your office.
+ Senator, we're investigating that now. We believe that it is entirely possible that there will be a connection there.
+ Sorry, are you — are you asking if Cambridge Analytica's data — data could be stored in Russia?
+ Senator, I don't have any specific knowledge that would suggest that.
+But one of the steps that we need to take now is go do a full audit of all of Cambridge Analytica's systems to understand what they're doing, whether they still have any data, to make sure that they remove all the data. If they don't, we're going to take legal action against them to do so.
+That audit, we have temporarily ceded that in order to let the U.K. government complete their government investigation first, because, of course, a government investigation takes precedence against a company doing that. But we are committed to completing this full audit and getting to the bottom of what's going on here, so that way we can have more answers to this.
+ Senator, that makes sense to me. And I think we should have our team follow up with — with yours to — to discuss the details around that more.
+ Senator, I believe we do link people's accounts between devices in order to make sure that their Facebook and Instagram and their other experiences can be synced between their devices.
+ Senator, I want to make sure we get this right. So I want to have my team follow up with you on that afterwards.
+ I'm not — I'm not sure of the answer to that question.
+ Yes. There — there may be some data that is necessary to provide the service that we do. But I don't — I don't have that on — sitting here today. So that's something that I would want to follow up on.
+ Yes, senator. So there are — there are two ways that we do this. One is we try to be exhaustive in the legal documents, or on the terms of service and privacy policies. But, more importantly, we try to provide in-line controls so that — that are in plain English, that people can understand.
+They can either go to settings, or we can show them at the top of the app, periodically, so that people understand all the controls and settings they have and can — can configure their experience the way that they want.
+ Senator, I'm sorry. I don't have that.
+ Okay. Yes, senator. In — in general, Facebook is not collecting data from other apps that you use. There may be some specific things about the device that you're using that Facebook needs to understand in order to offer the service.
+But, if you're using Google or you're using some texting app, unless you specifically opt in that you want to share the texting app information, Facebook wouldn't see that.
+ Senator, my understanding is that that is how the mobile operating systems are architected.
+ No.
+(LAUGHTER)
+ Senator, no. I would probably not choose to do that publicly, here.
+ Yes, senator. I think everyone should have control over how their information is used. And as we've talked about in some of the other questions, I think of that is laid out in and some of the documents, but more importantly, you want your people control in the product itself.
+So the most important way that this happens across our services is that every day, people come to our services to choose to share photos or send messages, and every single time they choose to share something, there — they have a control right there about who they want to share it with. But that level of control is extremely important.
+ Senator, you are referring I think to our developer platform, and it may be useful for me to give some background on how we set that up, if that's useful.
+ All right, senator, so a number of things I think are — are important here. The background on Messenger Kids is, we heard feedback from thousands of parents that they want to be able to stay in touch with their kids and call them, use apps like FaceTime when they're working late or not around and want to communicate with their kids, but they want to have complete control over that. So I think we can all agree that if you — when your kid is 6 or 7, even if they have access to a phone, you want to control everyone who they can contact. And there was an app out there that did that. So we build this service to do that.
+The app collects a minimum amount of information that is necessary to operate the service. So, for example, the messages that people send is something that we collect in order to operate the service, but in general, that data is not going to be shared with third parties, it is not connected to the broader Facebook ...
+ No. It will not.
+ Senator, yes. As a matter of fact, when you become 13, which is our legal limit — our limit — we don't allow people under the age of 13 to use Facebook — you don't automatically go from having a Messenger Kids account to a Facebook account. You have to start over and get a Facebook account.
+So I think it's a good idea to consider making sure that all that information is deleted, and in general, people are going to be starting over when get their — their Facebook or other accounts.
+ I don't know when we changed it, but the mantra is currently move fast with stable infrastructure, which is a much less sexy mantra.
+ Senator, I do think that we made mistakes because of that. But the broadest mistakes that we made here are not taking a broad enough view of our responsibility. And while that wasn't a matter — the “move fast” cultural value is more tactical around whether engineers can ship things and — and different ways that we operate.
+But I think the big mistake that we've made looking back on this is viewing our responsibility as just building tools, rather than viewing our whole responsibility as making sure that those tools are used for good.
+ I agree that we're responsible for the content, but I think that there's — one of the big societal questions that I think we're going to need to answer is the current framework that we have is based on this reactive model, that assumed that there weren't A.I. tools that could proactively tell, you know, whether something was terrorist content or something bad, so it naturally relied on requiring people to flag for a company, and then the company needing to take reasonable action.
+In the future, we're going to have tools that are going to be able to identify more types of bad content. And I think that there is — there are moral and legal obligation questions that I think we'll have to wrestle with as a society about when we want to require companies to take action proactively on certain of those things, and when that gets in the way of ...
+ All right.
+ I just think we have a broader responsibility than what the law requires. So I — what you ...
+ Yes, senator. If you delete your account, we should get rid of all of your information.
+ We do. We do.
+ Well, senator, this is actually a very important question, and I'm glad you brought this up, because there's a very common misperception about Facebook — that we sell data to advertisers. And we do not sell data to advertisers. We don't sell data to anyone.
+ What we allow is for advertisers to tell us who they want to reach, and then we do the placement. So, if an advertiser comes to us and says, “All right, I am a ski shop and I want to sell skis to women,” then we might have some sense, because people shared skiing-related content, or said they were interested in that, they shared whether they're a woman, and then we can show the ads to the right people without that data ever changing hands and going to the advertiser.
+That's a very fundamental part of how our model works and something that is often misunderstood. So I'm — I appreciate that you brought that up.
+ You can do a few more.
+(LAUGHTER)
+ Maybe — maybe 15 minutes. Does that work?
+ Yes.
+ I have not.
+ Senator, our app review team would be responsible for that. Had ...
+ Senator, not because of this.
+ Senator, it certainly appears that we should have been aware that this app developer submitted a term that was in conflict with the rules of the platform.
+ No, senator. My understanding is that — is not that this was a violation of the consent decree.
+But as I've said a number of times today, I think we need to take a broader view of our responsibility around privacy than just what is mandated in the current law.
+ Senator, I do generally agree with what you're saying. And I laid that out earlier when I talked about what ...
+ Senator, I think that — that certainly makes sense to discuss. And I think the details around this matter a lot.
+ Senator, yes. Of course.
+ Senator, we have already a “download your information” tool that allows people to see and to take out all of the information that Facebook — that they've put into Facebook or that Facebook knows about them. So, yes, I agree with that. We already have that.
+ Senator, I look forward to having my team work with you on this.
+ Senator, we consider ourselves to be a platform for all ideas.
+ Well ...
+ Senator, here's how we think about this
+ Well, senator, our goal is certainly not to engage in political speech. I am not that familiar with the specific legal language of the — the law that you — that you speak to. So I would need to follow up with you on that. I'm just trying to lay out how broadly I think about this.
+ Senator, let me say a few things about this. First, I understand where that concern is coming from, because Facebook in the tech industry are located in Silicon Valley, which is an extremely left-leaning place, and I — this is actually a concern that I have and that I try to root out in the company, is making sure that we do not have any bias in the work that we do, and I think it is a fair concern that people would at least wonder about. Now ...
+ Senator, I'm not. But let me just ...
+ Sorry.
+ I'm not specifically aware of those ...
+ I'm not specifically aware. I mean, I'm not sure.
+ No, senator. We do not generally ask people about their political orientation when they're joining the company.
+ No.
+ That is a specific personnel matter that seems like it would be inappropriate to speak to here.
+ Well, I can — I can commit that it was not because of a political view.
+ Senator, I do not know that.
+ Senator, you're asking about me personally?
+ Senator, I think that there are a number of things that we would all agree are clearly bad. Foreign interference in our elections, terrorism, self-harm. Those are things ...
+ Well, I — I think that you would probably agree that we should remove terrorist propaganda from the service. So that, I agree. I think it is — is clearly bad activity that we want to get down. And we're generally proud of — of how well we — we do with that.
+Now what I can say — and I — and I do want to get this in before the end, here — is that I am — I am very committed to making sure that Facebook is a platform for all ideas. That is a — a very important founding principle of — of what we do.
+We're proud of the discourse and the different ideas that people can share on the service, and that is something that, as long as I'm running the company, I'm going to be committed to making sure is the case.
+ Sure. I mean, that was — that was pretty good. So. All right.
+ Yeah.
+ Thank you.
+ Thank you. Mr. Chairman, I want to correct one thing that I said earlier in response to a question from Senator Leahy. He had asked if — why we didn't ban Cambridge Analytica at the time when we learned about them in 2015. And I answered that what my — what my understanding was, was that they were not on the platform, were not an app developer or advertiser. When I went back and met with my team afterwards, they let me know that Cambridge Analytica actually did start as an advertiser later in 2015. So we could have in theory banned them then. We made a mistake by not doing so. But I just wanted to make sure that I updated that because I — I — I misspoke, or got that wrong earlier.
+ Yes, my understanding is he has.
+ Senator, I believe we — we are preventing him from building any more apps.
+ Senator, I believe the answer to that is no, but I can follow up with you afterwards.
+ Senator, first they sent us an email notice from their chief data officer telling us that they didn't have any of the data any more, that they deleted it and weren't using it. And then later we followed up with, I believe, a full legal contract where they certified that they had deleted the data.
+ Yes, I believe so.
+ Senator, that is certainly the intent. Cambridge Analytica actually has a parent company and we banned the parent company. And recently we also banned a firm called AIQ, which I think is also associated with them. And if we find other firms that are associated with them, we will block them from the platform as well.
+ Senator, my understanding is we're blocking them from doing business on the platform, but I do not believe that we're blocking people's personal accounts.
+ Senator, I think the terms of service are what they are. But the service is really defined by people. Because you get to choose what information you share, and the whole service is about what friends you connect to, which people you choose to connect to ...
+ Senator, that's right on the terms of the service, although we offer a lot of controls so people can configure the experience how they want.
+ Senator, are — are you referring to the verification of political and issue ads?
+ Yes. So what we're going to do is require a valid government identity and we're going to verify the location. So we're going to do that so that way someone sitting in Russia, for example, couldn't say that they're in America and, therefore, able to run an election ad.
+ Senator, that's — that's correct.
+ Senator, yes. There are generally two categories of content that — that we're very worried about. One are things that could cause real world harm, so terrorism certainly fits into that, self-harm fits into that, I would consider election interference to fit into that and those are the types of things that we — I — I don't really consider there to be much discussion around whether those are good or bad topics.
+ Senator, in general that's our position. What we — one of the things that is really important though is that in order to create a service where everyone has a voice, we also need to make sure that people aren't bullied, or — or basically intimidated, or the environment feels unsafe for them.
+ Senator, no. I mean, in general our — our goal is to allow people to have as much expression as possible.
+ Yes, senator. Yes.
+ Absolutely.
+ Senator, a lot of that, we do. And some of that happens outside of our systems and will require new measures. And so, for example, what we saw here was people chose to share information with an app developer. That worked according to how the system was designed.
+That information was then transferred out of our system to servers that this developer, Aleksandr Kogan, had. And then that person chose to then go sell the data to Cambridge Analytica.
+That is going to require much more active intervention and auditing from us to prevent, going forward, because once it's out of our system it is a lot harder for us to have a full understanding of what's happening.
+ Well, senator, I would hope that what we do with data is not surprising to people.
+ Well, senator, I think in this case, people certainly didn't expect this developer to sell the data to Cambridge Analytica. In general, there are two types of data that Facebook has.
+The vast majority — and then the first category, is content that people chose to share on the service themselves. So that's all the photos that you share, the posts that you make, what you think of as the Facebook service, right? That's — everyone has control every single time that they go to share that. They can delete that data any time they want; full control, the majority of the data.
+The second category is around specific data that we collect in order to make the advertising experiences better, and more relevant, and work for businesses. And those often revolve around measuring, okay, if you — if we showed you an ad, then you click through and you go somewhere else, we can measure that you actually — that the — that the ad worked. That helps make the experience more relevant and better for — for people, who are getting more relevant ads, and better for the businesses because they perform better.
+You also have control completely of that second type of data. You can turn off the ability for Facebook to collect that — your ads will get worse, so a lot of people don't want to do that. But you have complete control over what you do there as well.
+ Senator, that's a good and important question here. In general, you know, you sign up for the Facebook, you get the ability to share the information that you want with — with people. That's what the service is, right? It's that you can connect with the people that you want, and you can share whatever content matters to you, whether that's photos or links or posts, and you get control over it.
+ And you can take it down if you want, and you don't need to put anything up in the first place if you don't want.
+ Well, what's that?
+ Senator, I'm not sure I — I fully understand this. In — in general, you — your — you — people come to Facebook to share content with other people. We use that in order to also inform how we rank services like news feed and ads to provide more relevant experiences.
+ No, we don't see any of the content in WhatsApp, it's fully encrypted.
+ Senator, we don't — Facebook systems do not see the content of messages being transferred over WhatsApp.
+ Senator, I think the answer to your specific question is, if you message someone about Black Panther in WhatsApp, it would not inform any ads.
+ Well, senator, you own it in the sense that you chose to put it there, you could take it down anytime, and you completely control the terms under which it's used.
+When you put it on Facebook, you are granting us a license to be able to show it to other people. I mean, that's necessary in order for the service to operate.
+ Well, senator, I — I think that the control is much more granular than that. You can chose each photo that you want to put up or each message, and you can delete those.
+And you don't need to delete your whole account, you have specific control. You can share different posts with different people.
+ Senator, I think it's certainly an interesting idea, and Jack is very thoughtful in this space, so I do think it deserves consideration.
+ Senator, can you clarify what you mean by data categories?
+ Senator, I'm not actually sure what that is referring to.
+ Senator, the way I think about this is there are two broad categories. This probably doesn't line up with whatever the — the specific report that you were seeing is. And I can make sure that we follow-up with you afterwards to get you the information you need on that. The two broad categories that I think about are content that a person is chosen to share and that they have complete control over, they get to control when they put into the service, when they take it down, who sees it. And then the other category are data that are connected to making the ads relevant. You have complete control over both. If you turn off the data related to ads, you can choose not to share any content or control exactly who sees it or take down the content in the former category.
+ Yes.
+ Senator, we store data about what people share on the service and information that's required to do ranking better, to show you what you care about in news feed.
+ Senator, some of that content with people's permission, we do store.
+ Yes, it — Senator, in order to — for people to share that information with Facebook, I believe that almost everything that you just said would be opt in.
+ Senator, yes. Every person gets to control who gets to see their content.
+ Senator, yes. There are other — there are controls that determine what Facebook can do as well. So for example, people have a control about face recognition. If people don't want us to be able to help identify when they are in photos that their friends upload, then they can turn that off.
+ And then we won't store that kind of template for them.
+ Well, senator, this is how the service works. I mean, the core thing that Facebook is, and all of our services, WhatsApp, Instagram, Messenger.
+ Senator, I think Facebook is safe. I use it, my family uses it, and all the people I love and care about use it all the time. These controls are not just to make people feel safe; it's actually what people want in the product. The reality is, is that when you — just think about how you use this yourself. You don't want to share it — if you take a photo, you're not always going to send that to the same people. Sometimes you're going to want to text it to one person. Sometimes you might send it group. I bet you have a page. You'll probably want to put some stuff out there publicly so you can communicate with your constituents.
+There are all these different groups of people that someone might want to connect with, and those controls are very important in practice for the operation of the service. Not just to build trust, although I think that the providing people with control, also does that, but actually in order to make it so that people can fulfill their goals of the service.
+ Senator, there are a number of important points in there. And I think it's clear that this is an area, content policy enforcement, that we need to do a lot better on over time.
+The history of how we got here is we started off in my dorm room with not a lot of resources and not having the A.I. technology to be able to proactively identify a lot of this stuff.
+So just because of the sheer volume of content, the main way that this works today is that people report things to us and then we have our team review that.
+And as I said before, by the end of this year, we're going to have more than 20,000 people at the company working on security and content review, because this is important.
+Over time, we're going to shift increasingly to a method where more of this content is flagged up front by A.I. tools that we develop.
+We've prioritized the most important types of content that we can build A.I. tools for today, like terror related content, where I mentioned earlier that our systems that we deploy; we are taking down 99 percent of the ISIS and Al Qaida-related content that we take down before a person even flags them to us.
+If we fast forward 5 or 10 years, I think we're going to have more A.I. technology that can do that in more areas. And I think we need to get there as soon as possible, which is why we're investing in it.
+ I agree.
+ Senator, I think that this is a really hard question. And I think it's one of the reasons why we struggle with it. There are certain definitions that — that we — that we have around, you know, calling for violence or ...
+ Yes.
+ I certainly would not want that to be the case.
+ It might be, but I don't think that that would — would fit any of the definitions of — of what we have. But I do generally agree with the point that you're making, which is as we — as we're able to technologically shift towards especially having A.I. proactively look at content, I think that that's going to create massive questions for society about what obligations we want to require companies to — to fulfill. And I do think that that's a question that we need to struggle with as a country, because I know other countries are, and they're putting laws in place. And I think that America needs to figure out and create the set of principles that we want American companies to operate under.
+ Well my hope is — is that we can be idealistic but have a broad view of our responsibility.
+To your — your point about teens, this is certainly something that I think any parent thinks about, is how much do you want your kids using technology. It — at Facebook, specifically, I view our responsibility as not just building services that people like, but building services that are good for people and good for society as well.
+So we study a lot of effects of well being of our — of our tools and broader technology. And you know, like any tool, there are good and — and bad uses of it.
+What we find in general is that if you're using social media in order to build relationships, right? So you're — you're sharing content with friends, you're interacting, then that is associated with all of the long-term measures of well-being that you'd intuitively thing of.
+Long-term health, long-term happiness, long-term feeling connected, feeling less lonely. But if you're using the Internet and social media primarily to just passively consume content, and you're not engaging with other people, then it doesn't have those positive effects and it could be negative.
+ No, Senator. That's not how we talk about this, or — or how we set up our product teams. We want our products to be valuable to people. And if they're valuable, then people choose to use them.
+ Not sitting here today.
+ Senator, we do require permission to use the — the system, and to — to put information in there, and for — for all the uses of it.
+I want to be clear. We don't sell information. So regardless of whether we could get permission to do that, that's just not a thing that we're going to go do.
+ Senator, I — I — in general, I think that that principle is exactly right. And I think we should have a — a discussion around how to best apply that.
+ Senator, as a principle, yes, I would. I think the details matter a lot, and now that ...
+ Senator, I think that that's the right principle. And a hundred billion times a day in our services, when people go to share content, they choose who they want to share it with affirmatively.
+ Senator, yes. I said that in principle I think that that makes sense, and the details matter and I look forward to having our team work with you on fleshing that out.
+ Senator, I think, as a general principle, I think protecting minors and protecting their privacy is extremely important, and we do a number of things on Facebook to do that already, which I am happy to ...
+ Senator, I think that that's an important principle and ...
+ ... and I think we should ...
+ Senator, I'm not sure if we need a law, but I think that this is certainly a thing that deserves a lot of discussion.
+ Senator, I look forward to having my team follow up to have my team flesh out the details of it.
+ Senator, there are three main things that we're doing, in Myanmar specifically, and that will apply to — to other situations like that. The first is hiring enough people to do local language support, because the definition of hate speech or things that can be racially coded to incite violence are very language-specific and we can't do that with just English speakers for people around the world. So we need to grow that.
+The second is, in these countries there tend to be active civil society, who can help us identify the figures who are — who are spreading hate. And we can work with them in order to make sure that those figures don't have a place on our platform.
+The third is that there are specific product changes that we can make in order to — that — that might be necessary in some countries but not others, including things around news literacy — right.
+And, like, encouraging people in — in different countries about, you know, ramping up or down. You know, things that we might do around fact-checking of content, specific product-type things that we would implement in different places. But I think that that's something that we're going to have to do in a number of countries.
+ Senator, I think you're absolutely right that over the long term, building A.I. tools is going to be the scalable way to identify and root out most of this harmful content. We're investing a lot in doing that, as well as scaling up the number of people who are doing content review.
+One of the things that I've mentioned is this year we're — or, in the last year, we've basically doubled the number of people doing security and content review. We're going to have more than 20,000 people working on security and content review by the end of this year. So it's going to be coupling continuing to grow the people who are doing review in these places with building A.I. tools, which is — we're — we're working as quickly as we can on that, but some of this stuff is just hard. That, I think, is going to help us get to a better place on eliminating more of this harmful content.
+ Senator, we have kicked-off an investigation of every app that had access to a large amount of people's data before we locked down the platform in 2014. That's underway, I imagine we'll find some things, and we are committed to telling the people who were affected when we do. I don't think, sitting here today, that we have specific knowledge of — of other efforts by — by those nation-states. But, in general, we assume that a number of countries are trying to abuse our systems.
+ Senator, I don't know that we've had specific conversations around that. In general ...
+ We would not proactively do that. We cooperate with law enforcement in two cases. One is if we become aware of an imminent threat of harm, then we will proactively reach out to law enforcement, as we believe is our responsibility to do.
+The other is when law enforcement reaches out to us with a valid legal subpoena or — or request for data. In those cases, if their request is overly broad or we believe it's not a legal request, then we're going to push back aggressively.
+ Senator, that is correct.
+ Senator, I'm not familiar enough with what they're doing to offer an informed opinion on that.
+ Senator, it sounds difficult to me. All of these things, like you're saying, are difficult. I don't know without having worked on it or thinking about it ...
+(CROSSTALK)
+ Senator, those — those are all important questions, and in general it is against our policies to — to have any ads that are discriminatory. Some of ...<br/> HIRONO
+Well, you said that you wouldn't allow it, but then — was it ProPublica — could place these ads even after you said you would no longer allow these kinds of ads. So what assurance do we have from you that this is stop — going to stop?
+ Well, two things. One is that we've removed the ability to exclude ethnic groups and other sensitive categories from ad targeting. So that just isn't a feature that's even available anymore. For some of these cases, where it may make sense to target proactively a group, the enforcement today is — is still — we review ads, we screen them up front, but most of the enforcement today is still that our community flags issues for us when they come up.
+So if the community flags that issue for us, then our team, which has thousands of people working on it, should take it down. We'll make some mistakes, but we try to make as few as possible. Over time, I think the strategy would be to develop more A.I. tools that can more proactively identify those types of content and do that filtering up front.
+(CROSSTALK)
+ Yes.
+ Senator, mostly in America.
+ Well — well, senator, there are — there are some very strong Chinese Internet companies.
+ Well, senator, I think most of the time when people talk about our scale, they're referencing that we have two billion people in our community. And I think one of the big questions that we need to think through here is the vast majority of those 2 billion people are outside of the U.S. And I think that that's something that, to your point, that Americans should be proud of.
+(CROSSTALK)
+ And when I brought up the Chinese Internet companies, I think that that's a real — a real strategic and competitive threat that, in American technology policy we (inaudible) should be thinking about.
+(CROSSTALK)
+ Well, senator, I'm not the type of person that thinks that all regulation is bad. So I think the Internet is becoming increasingly important in people's lives, and I think we need to have a full conversation about what is the right regulation, not whether it should be or shouldn't be.
+ Well, senator, I agree with the point that when you're thinking through regulation, across all industries, you need to be careful that it doesn't cement in the current companies that are — that are winning.
+ Senator, that — that certainly wouldn't be our approach. But — but I think — I think part of the challenge with regulation in general is that when you add more rules that companies need to follow, that's something that a larger company like ours inherently just has the resources to go do, and that might just be harder for a smaller company getting started to be able to comply with.
+ So it's not something that — like going into this, I would look at the conversation as what is the right outcome. I think there are real challenges that we face around content and privacy and in a number of areas, ads transparency, elections ...
+ Senator, this is a — a really big question. I — I view us as a tech company because the primary thing that we do is build technology and products.
+ Exactly.
+ Well, I agree that we're responsible for the content, but we don't produce the content. I — I think that when people ask us if we're a media company or a publisher, my understanding of what — the heart of what they're really getting at, is do we feel responsibility for the content on our platform.
+The answer to that, I think, is clearly “yes.” And — but I don't think that that's incompatible with fundamentally, at our core, being a technology company where the main thing that we do is have engineers and build products.
+ Absolutely.
+ Senator, the most important thing that I care about right now is making sure that no one interferes in the various 2018 elections around the world.
+We have an extremely important U.S. midterm. We have major elections in India, Brazil, Mexico, Pakistan, Hungary coming up. And we're going to take a — a number of measures, from building and deploying new A.I. tools that take down fake news, to growing our security team to more than 20,000 people, to making it so that we verify every advertiser who's doing political and issue ads, to make sure that that kind of interference that the Russians were able to do in 2016 is going to be much harder for anyone to pull off in the future.
+ Senator, yes.
+ We support the Honest Ads Act. We're implementing it.
+ Senator, the biggest thing that I think we can do is implement it. And we're doing that.
+ Senator, our team is certainly going to work on this. What I can say is, the biggest thing that ...
+(CROSSTALK)
+ Well, Senator, I try ...
+(CROSSTALK)
+ ... not to come to D.C.
+ Senator, I'm — I'm posting and speaking out publicly about how important this is. I don't come to Washington, D.C., too often. I'm going to direct my team to focus on this. And the biggest thing that I feel like we can do is implement it, which we're doing.
+ Senator, no, I can't guarantee that. Because this is an ongoing arms race. As long as there are people sitting in Russia whose job it is, is to try to interfere with elections around the world, this is going to be an ongoing conflict.
+What I can commit is that we're going to invest significantly. because this is a top priority, to make sure that people aren't spreading misinformation or trying to interfere in elections on Facebook.
+But I don't think it would be a realistic expectation, to assume that as long as there are people who are employed in Russia, for whom this is their job, that we're going to have zero amount of that, or that we're going to be 100 percent successful at preventing that.
+ Senator, our verification program involves two pieces. One is verifying the identity of the person who's buying the ads, that they have a valid government identity. The second is verifying their location. So if you're sitting in Russia, for example, and you say that you're in the U.S., then we'll be able to — to make it a lot harder to do that, because what we're actually going to do is mail a code to the address that you say you're at.
+And if you can't get access to that code, then you're not going to be able to run ads.
+ Senator, that's the purpose of this group, is that Facebook does not get to control what these folks publish. These are going to be independent academics, and Facebook has no prior publishing control. They'll be able to do the studies that — that — that they're doing and publish the results.
+ Senator, we're — we're kicking off the research now. Our goal is to focus on both providing ideas for preventing interference in 2018 and beyond, and also for holding us accountable to making sure that the measures that we put in place are successful in doing that. So I would hope that we will start to see the first results later this year.
+ Thank you.
+ Well, Senator, like I said earlier, I mean our view is that — is that we believe that we are in compliance with the consent order, but I think we have a broader responsibility to protect people's privacy even beyond that. And in this specific case, the way that the platform worked, that you could sign into an app and bring some of your information and some of your friends' information is how we explained it would work. People had settings to that effect. We explained and — and they consented to — to it working that way. And the — the system basically worked as it was designed.
+The issue is that we designed the system in a way that wasn't good. And now we — starting in 2014, have changed the design of the system to that that way it just massively restricts the amount of — of data access that a developer could get.
+(CROSSTALK)
+ Senator, I believe that — that we rolled out this developer platform, and that we explained to people how it worked, and that they did consent to it. It — it makes, I think, to — to go through the way the platform works. I mean, it's — in 2007, we — we announced the Facebook developer platform, and the idea was that you wanted to make more experiences social, right?
+So, for example, if you — like, you might want to have a calendar that can have your friends' birthdays on it, or you might want your address book to have your friends' pictures in it, or you might want a map that can show your friends' addresses on it. In order to do that, we needed to build a tool that allowed people to sign in to an app and bring some of their information, and some of their friends' information, to those apps. We made it very clear that this is how it worked, and — and when people signed up for Facebook, they signed up for that as well.
+Now, a lot of good use cases came from that. I mean, there were games that were built. There were integrations with companies that, I think, we're familiar with, like Netflix and Spotify. But over time, what became clear was that that also enabled some abuse. And that's why in 2014, we took the step of changing the platform. So now, when people sign in to an app, you do not bring some of your friends' information with you. You're only bringing your own information and you're able to connect with friends who have also authorized that app directly.
+ Sorry, could you — could you clarify what — what specifically ...
+ Senator, I'm not — I'm not too sure I — I understand this enough to — to speak to — to that specific point, and I can have my team follow up with you on the details of that.
+In general, bounty programs are an important part of the security arsenal for hardening a lot of systems. I — I think we should expect that we're going to invest a lot in hardening our systems ourselves, and that we're going to audit and investigate a lot of the folks in our ecosystem.
+But even with that, having the ability to enlist other third-parties outside of the company to be able to help us out by giving them an incentive to point out when they see issues, I think is likely going to help us improve the security of the platform overall, which is why we did this.
+ Senator, this is a — a — a very important question and, in general, I think over time we're going to move towards more proactive review, with more A.I. tools to help flag problematic content.
+In the near term, we have a lot of content on the platform, and we — it's — it's hard to review every single thing up front. We do a quick screen. But I — I agree with you that I think in — in this specific case, I'm not happy with where we are, and I — I think it makes sense to — to really focus on making sure that these areas get more reviews sooner.
+ Senator, I think that's a very good idea. And I think we should follow up on the details of that.
+ Yes, Senator. I think that that's very important. We're — we're committed to that.
+And in general, unless law enforcement has a very clear subpoena or ability or — or reason to get access to information, we're going to push back on that across the board.
+ Senator, I don't have this broken out by state right now. But I can have my team follow up with you to get you the information.
+ Yes.
+ Sorry, can ...
+ I don't know the answer to that off the top of my head. I know we try to delete it as quickly as is reasonable. We have a lot of complex systems, and it work — takes awhile to work through all that.
+But I think we try to move as quickly as possible, and I can follow up or have my team follow up ...
+ ... to get you the — the data on that.
+ Senator, could you clarify that?
+ Yes, senator. We don't sell data at all.
+So the — the way the ad system work is advertisers can come to us and say, I — I have a message that I'm trying to reach a certain type of people. They might be interested in something, they might live in a place, and then we help them get that message in front of people. But this is one of the — it's — it's widely mischaracterized about our system that we sell data. And it's actually one of the most important parts of how Facebook works is that we do not sell data. Advertisers do not get access to people's individual data.
+ Senator, I don't believe we have ever collected the content of — of phone calls. We have an app called Messenger that allows people to message most of their Facebook friends. And we do on — in the Android operating system allow people to use that app as their client for both Facebook messages and texts. So we do allow people to import their texts into that.
+ Well senator, once again, we don't sell any data to anyone. We don't see it to advertisers, and we don't sell it to developers. What we do allow is for people to sign in to apps and bring their data and it used to be the data of some of their friends but now it isn't with them. And that I think makes sense. I mean, that's basic data portability. The ability that you own the data, you should be able to take it from one app to another if you'd like.
+ Yes. But, senator, the — your point about surveillance, I think that there's a very important distinction to draw here, which is that when — when organizations do surveillance people don't have control over that. But on Facebook, everything that you share there you have control over. You can — you can say I don't want this information to be there. You have full access to understand all, every piece of information that Facebook might know about you, and you can get rid of all of it. And I — I don't know of any other — any surveillance organization in the world that operates that way, which is why I think that that comparison isn't really apt here.
+ No.
+ Senator, no. I think that we have a responsibility to protect everyone in our community from anyone in — in our ecosystem who is going to potentially harm them. And I think that we haven't done enough historically ...
+ ... and we need to step up and do more.
+ Senator, I think yes. I mean, they — they did not their information to be sold to Cambridge Analytica by a developer. And — and that happened, and it happened on our watch. So even though we didn't do it, I think we have a responsibility to be able to prevent that and be able to take action sooner. And we're committing to make that we do that going forward.
+ Which is why the steps that I — that I announced before are now, they're the two most important things that we're doing are locking down the platform to make sure that developers can't get access to that much data so this can't happen again going forward, which I think is largely the case since 2014, and going backwards we need to investigate every single app that might have had access to a large amount of people's data to make sure that no one else was misusing it. If we find that they are, we're going to get into their systems, do a full audit, make sure they delete it and we're going to tell everyone who's affected.
+ No.
+ Well, senator, let me be — let me be clear on this. So you're — you're talking about this conspiracy theory that gets passed around that we listen to what's going on, on your microphone and use that for ads.
+ We don't do that. To be clear, we do allow people to take videos on their — on their devices and — and share those. And of course videos also have audio, so — so we do, while you're taking a video, record that and use that to make the service better by making sure that your videos have audio. But I — I mean that, I think, is pretty clear, but I just wanted to make sure I was exhaustive there.
+ Senator, I think the — the core question you're asking about, A.I. transparency, is a really important one that people are just starting to very seriously study, and that's ramping up a lot. And I think this is going to be a very central question for how we think about A.I. systems over the next decade and beyond.
+Right now, a lot of our A.I. systems make decisions in ways that people don't really understand.
+ And I don't think that in 10 or 20 years, in the future that we all want to build, we want to end up with systems that people don't understand how they're making decisions.
+So having — doing the research now to make sure that the — that these systems can have those principles as we're developing them, I think is certainly a — an extremely important thing.
+ Yes, senator.
+I can make sure that our team follows up and gets you the information on that.
+And we have a whole A.I. ethics team that is working on developing basically the technology. It's not just about philosophical principles; it's also a technological foundation for making sure that this goes in the direction that we want.
+ Senator, I don't know if there were any conversations at Facebook overall because I wasn't in a lot of them. But ...
+ Yes. I mean, I'm not sure what other people discussed. Are — at the time — in 2015 we heard the report that this developer, Aleksandr Kogan, had sold data to Cambridge Analytica. That's in violation of our times.
+ I don't remember a conversation like that. But the reason why ...
+ I'm not sure whether there was a conversation about that. But I can tell you the thought process at the time of the company, which was that in 2015, when we heard about this, we banned the developer and we demanded that they delete all of the data and stop using it, and same with Cambridge Analytica.
+(CROSSTALK)
+ Senator, in retrospect, I think we clearly viewed it as a mistake that we didn't inform people and we did that based on false information that we thought that the case was closed and that the data had been deleted.
+ That's my understanding. Yes.
+ But I — I — in retrospect I think that was a mistake and knowing what we know now, we should have handled a lot of things here differently.
+ I don't.
+ Well senator, what we do know is that the IRA, the Internet Research Agency, the — the Russian firm ran about $100,000 worth of ads. I can't say that we've identified all of the foreign actors who are involved here. So, I — I — I can't say that that's all of the money but that is what we have identified.
+ Senator, as someone who uses Facebook, I believe that you should have complete control over your data.
+ Senator, you can already delete any of the data that's there, or delete all of your data.
+ Senator, I think we already do what you're referring to. But certainly, we're always working on trying to make these controls easier.
+ Senator, we already give you a list of apps that — that you're using. And you signed into those yourself, and provided affirmative consent. As I've said before ...
+ ... we don't share any data with ...
+ Senator, again, I believe that you already have that control. So, I mean, I think people have that — that full control in the system already today. If we're not communicating this clearly, then that's a big thing that we should work on. Because I think the principles that you're articulating are the ones that we believe in and try to codify in the product that we build.
+ Senator, you can already do that. We have a download-your-information tool, where you can go get a file of all the content there, and then do whatever you want with it.
+ Yes, senator. And I believe you already have that ability today. People can sign on and choose to not share things, and just follow some friends or some pages and read content if that's what they want to do.
+ Absolutely not.
+ In — in theory.
+ I do not believe we have the right to do that.
+ Senator, the data is in the system. So ...
+ Technically, I think someone could do that. But that would be a massive breach. So we would never do that.
+ Yes.
+ Senator, yes. The terms of the platform at the time allowed for people to share their information and some basic information about their friends as well. And we've since changed that, as of 2014.
+ Now, that's not possible.
+ Yes, that's a good question. It was just a subset of what was entered by the person. And ...
+ Yes, when you sign into the app ...
+ ... you — the app developer has to say, here are the types of data from you that I'm asking for, including public information like your name and profile, the pages you follow, other interests on your profile, that kind of content.
+ The app developer has to disclose that up front, and you agree with it.
+ Well, there are many kinds of security threats that a company like ours faces, including people trying to break in to our security systems.
+ Yes.
+ Senator, yes, we do. He sold it to a couple of other firms.
+ Yes, there's one called Eunoia, and there may have been a couple of others as well. And I can follow up with ...
+ Yes.
+ Since we just heard that they didn't delete it about a month ago, we've kicked off an internal investigation to see if they used that data in any of their ads, for example. That investigation is still underway, and we will — we can come back to the results of that once we have that.
+ We'll follow up on that.
+ Senator, you'll be able to go to any page and see all of the ads that that page has run. So if someone is running a political campaign, for example, and they're targeting one district with one ad and another district with another, historically it has been hard to track that down, but now it will be very easy.
+You'll just be able to look at all of the ads that they've run, the targeting associated with each to see what they're saying to different folks, and in some cases how much they're spending on the ads, and all of the relevant information.
+This is an area where I think more transparency will really help discourse overall and root out foreign interference in elections.
+ Senator, I do not.
+ Senator, who read the whole thing? I would imagine that probably most people do not read the whole thing. But everyone has the opportunity to and consents to it.
+ Senator, it's really hard for me to make a full assessment, but ...
+ Senator, there has not.
+ Senator, there was a movement where some people were encouraging their friends to delete their account and I think that got shared a bunch.
+ Well, senator, I think people are concerned about it. And I think these are incredibly important issues that people want us to address. And I think people have told us that very clearly.
+ Senator, I'm not sure exactly how — how it would work for it to be monetized by the person directly. In general, where — we believe that the ads model is the right one for us because it aligns with our social mission of trying to connect everyone and bring the world closer together.
+ Yes. I — Senator, a number of people suggest that — that we should offer a version where people cannot have ads if they pay a monthly subscription, and certainly we consider ideas like that. I think that they're reasonable ideas to — to think through. But overall, the — I think that the ads experience is going to be the best one. I think in general, people like not having to pay for a service. A lot of people can't afford to pay for a service around the world, and this aligns with our mission the best.
+ Senator, yes. There are lots of new social apps all the time. And as I said before, the average American I think uses eight different communication and social apps. So there's a lot of different choice and a lot of innovation and activity going on in this space.
+ Senator, this is an important distinction, so thanks for giving me the opportunity to clarify this. People — we give people the ability to take their data to another app if they want. And this is a question that Senator Kennedy asked me just a few minutes ago.
+The reason why we designed the platform that way is because we — we thought it would be very useful to make it so that people could easily bring their data to other — to other services. Some people inside the company argued against that at the time because they were worried that — they said hey, we should just make it so that we can be the only ones who develop this stuff, but ...
+ ... we thought that that was a — a useful thing for people to ...
+ Yes, senator. This is a good question. So there's the developer platform, which is the sanctioned way that an app developer can ask a person to access information. We also have certain features and certain things that are public, right? A lot of the information that people choose to put on Facebook, they're sharing with everyone in the world. Not privately, but, you know, you put your name, you put your profile picture, that's public information that people put out there. And sometimes people who aren't registered developers at Facebook try to load a lot of pages in order to get access to a bunch of people's public information and aggregate it.
+We fight back hard against that, because we don't want anyone to aggregate information, even if people made it public and chose to share it with everyone.
+ Well, senator, you've raised a number of important points in there, so just let me respond in ...
+ ... in a couple of different ways. The first is that I think it's really important to think about what we're doing, is building this community over the long term. Any business has the opportunity to do things that might increase revenue in the short term, but at the expense of trust or building engagement over time. What we actually find is not necessarily that increasing time spent, especially not just in the short term, is going to be best for our business.
+It actually — it aligns very closely with — with the well-being research that we've done. That when people are interacting with other people, and posting and basically building relationships, that is both correlated with higher measures of well-being, health, happiness, not feeling lonely, and that ends up being better for the business than when they're doing lower value things like just passively consuming content.
+So I think that that's — that's an important point to — to ...
+ Senator, yes. We will commit to that. I think that that's an important conversation to have. Our position is not that regulation is bad. I think the Internet is so important in people's lives, and it's getting more important.
+ The expectations on Internet companies and technology companies overall are growing, and I think the real question is, “what is the right framework for this?” not “should there be one?”
+ Well senator, we — we look forward to — to discussing that with you. I would disagree however that we have no financial incentive or incentive overall to do this. This episode has clearly hurt us, and has clearly made it harder for us to achieve the social mission that we care about. And we now have to a lot of work around building trust back which — which is — is a really important part of this.
+ Yes. And I think you raise a good point though, which is that it is — we will delete it from our systems but if you shared something to someone else then we can't guarantee that they don't have it somewhere else.
+ If they delete their account, the answer is no. That's why we actually offer two options. We offer deactivation, which allows you to shut down or suspend your account, but not delete the information. Because actually a lot of people want to — at least for some period of time. I mean we hear students with exams coming up want to not be on Facebook because they want to make sure they can focus on the exam. So they deactivate their account temporarily, but then want the ability to turn it back on when they're ready. You can also delete your account, which is wiping everything. If you do that, then you can't get it back.
+ Yes.
+ From our systems?
+ Senator, I actually do think we can go back in some cases. And that's why one of the things that I announced is that we're going to be investigating every single app that had access to a large of information before we locked down the platform in 2014. And if we find any pattern of suspicious activity, then we're going to go do a full audit of their systems. And if we find that anyone's improperly using data, than we'll take action to make sure that they delete the data, and we'll inform everyone who — who may have had their data misused.
+ Yes, that is correct. We have already committed that if we find any improper use, we will inform everyone affected.
+ Senator, that sounds like an important initiative, and we will send someone. And let me also say that on your point about connectivity, we do have a — a group at Facebook that is working on trying to spread Internet connectivity in rural areas, and we would be happy to follow up with you on that as well.
+That's something that I'm very passionate about.
+ Senator, no. The way that the system works is people — advertisers bid how much it's worth it to them to show an ad or when an action happens. So it's not that we would get a percent of the sale, but let's — let's just use an example.
+So let's say you have — you're an app developer, and you — your goal is you want to get more people to install your app. You could bid in the ad system and say I will pay $3 anytime someone installs this app.
+And then we basically calculate on — on our side which ads are going to be relevant for people, and we have an incentive to show people ads that are going to be relevant because we only get paid when it delivers a business result, and — and that's how the system works.
+ We — we get paid when the action of the advertiser wants to — to happen, happens.
+ Senator, I believe that we've had the option for people to share with friends, friends of friends, a custom audience or publicly for a long time. I — I don't remember ...
+CORTEZ MASTO: Okay.
+ ... exactly when we put that in place, but I believe it was before 2009.
+CORTEZ MASTO: So either you can choose only friends or friends of friends to decide how you're going to share that — protect that data, correct?
+ Those are two of the options, yes.
+CORTEZ MASTO: Okay. And in 2011 when the FTC started taking a look at this, they were concerned that if somebody chose only friends, that the individual user was under the impression they could continue to restrict sharing of data to a limited audience, but that wasn't the case.
+And, in fact, selecting friends only did not prevent users' information from being shared with third — third-party applications their friend used. Isn't that the case, and that's why the FTC was looking at — at you and making that change? Because there was concern that if you had friends on your page, a third party could access that information. Isn't that correct?
+ Senator, I don't remember the exact context that the ...
+CORTEZ MASTO:  So let me — let me help you here. Because David Vladeck who was — spent nearly four years as director of the Federal Trade Commission's Bureau of Consumer Protection, where he worked, including on the FTC's enforcement case against Facebook, basically identifies in this article that was the case.
+That not only did Facebook misrepresent — and that's why there were eight counts of deceptive acts and practices — the actual FTC, in November's 2011 decree, basically stated — required Facebook to give users clear and conspicuous notice and to obtain affirmative — let me jump back here — to do three things. The decree barred Facebook from making any further deceptive privacy claims or — and it required Facebook get consumers' approval before changing the way it shares their data. And most importantly, the third thing, it required Facebook to give users clear and conspicuous notice and to obtain affirmative express consent before sharing their data with third parties. That was part of the FTC consent decree, correct?
+ Senator, that sounds right to me.
+CORTEZ MASTO: Okay. So at that time, you're on notice that there were concerns about the sharing of data and information — users' data including those friends — with third parties, correct?
+ Senator, my understanding ...
+CORTEZ MASTO: Well, let me ask you this. Let me do it this way. In response to the FTC consent to make those changes, did you make those changes and what did you do to ensure individuals' user data was protected and they had notice of that information and that potentially third parties would be accessing that and they had to give express consent? What did you specifically do in response to that?
+ Senator, a number of things. One of the most important parts of the FTC consent decree that we signed was establishing a robust privacy program at the company, headed by our chief privacy officer, Erin Egan. We're now ...
+CORTEZ MASTO: Can you give me specifics? And I know — and — and I've heard this over and over again. I'm running out of time. But here's the concern that I have. It can't be a privacy policy because that's what the consent said it couldn't be.
+It had to be something very specific, something very simple, like you've heard from my colleagues. And that did not occur. Had that occurred, we wouldn't be here today talking about Cambridge Analytica.
+CORTEZ MASTO: Isn't that really true? Had you addressed those issues then, had you done an audit, had you looked at not only the third-party applications, but audited their associated data storage as well, you would have known that this type of data information was being shared.
+And that's our concern and that's what I'm saying now, time just to make a change. It's time to really address the privacy issue. It's time to really come and lead the country on this issue and how we can protect individual user's data and information. I know my time is running out, but I appreciate you being here and I'm just hoping that you're committed to working with us in the future in addressing these concerns.
+ Senator, I don't know, sitting here, what our current systems are on that. But the intent is to get all the content out of the system as quickly as possible.
+ Senator, I think that that is probably right. I — I don't — I'm not sitting here today having full knowledge of — of our current state of the systems around wiping all of the data out of backups. So I can follow up with you on that afterwards, but what I can tell you ...
+ That is certainly the way it's — it — it's supposed to work.
+ Senator, I — I don't know. But this is — if we tell people that we're going to delete their data then we need to do that.
+ (OFF-MIKE)
+ Senator, I ...
+ ... I think that there — there is functionality like that, yes.
+ Senator, I think that they — that there is a reasonable — the — I think the answer's probably yes for the following reason, because when we show a “Like” button on a website, we show social context there. So, it says here are your friends who liked that. So in order to do that, we would have to ...
+ Well, we would need to have that in order to serve up that — the — the like button and show you who your friends were who had also liked that.
+ I'm not aware that we have had systems that have ...
+ That's my understanding. I mean, this is the core thing that our company does is — you come to Facebook, you say, hey, I want to share this photo or I want to send this message to these people. And then ...
+(CROSSTALK)
+ There have been — I don't believe there has been a breach of data that we are aware of.
+ Yes.
+ I don't believe so. I think we had an instance in 2013 where someone was able to install some malware on a few employees' computers and had access to some content on their computers, but I don't believe ...
+ I do not believe so.
+ Senator, I believe so.
+ Senator, I'm not sure I fully understand. You're saying ...
+ Senator, the intent of what we're trying to get at is the foreign election interference we've seen has taken more of the form of issue ads than direct political electioneering advertising. So because of that, we think it's important to extend the verification and transparency to issue ads in order to block the kind of interference that the Russians attempted to do, and I think will likely continue to attempt to do. That's why I think those measures are important to do.
+ Thank you, Senator Gardner. Senator Tester.
+ Thank you, senator.
+There are three important steps that we're taking here. For Cambridge Analytica, first of all, we need to finish resolving this by doing a full audit of their systems to make sure that they delete all the data that they have and so we can fully understand what happened. There are two sets of steps that we're taking to make sure that this doesn't happen again.
+The most important is restricting the amount of accessed information that developers will have going forward. The good news here is that back in 2014, we actually had already made a large change to restrict access on the platform that would have prevented this issue with Cambridge Analytica from happening again today. Clearly we did not do that soon enough.
+If we'd done it a couple of years earlier, then we probably wouldn't be sitting here today. But this isn't a change that we had to take now in 2018, it's largely a change that we made back in 2014.
+ There were other parts of the platform that we also similarly can lock down now to make sure that other issues that might have been exploited, in the future won't be able to. And we've taken a number of those steps and I've outlined those in — in my written statement as well.
+ Senator, I believe so ...
+ ... although security is never a solved problem.
+ Senator, if — right now, we're waiting on the audit because the U.K. government is doing a government investigation of them.
+ And I do believe that the government will have the ability to get into the systems even if we can't ...
+ Well, senator, we believe a bunch of the information that we — that we will be able to audit. I think you raise an important question and if we have issues, then we — if we are not able to do an audit to our satisfaction, we are going to take legal action to enable us to do that. And if — and also, I know that the U.K. and U.S. governments are also involved in working on this as well.
+ Well, I think we'll know once we get in there whether we feel like we can fully investigate everything.
+ Yes.
+ Senator, when I say ...
+ Yes. So, senator, when I say it's your data, what we mean is that you have control over how its used on Facebook. You clearly need to give Facebook a license to use it within our system.
+ Or else — or else the service doesn't work.
+ Senator, sure. I think that people's expectations of how they use these different systems are different. Some thing — some apps are very lightweight and as are — and you can fully encrypt the data going across them in a way that the app developer or the — the pipes, in the ISP case.
+You probably shouldn't be able to see any of the content, and I — I think you probably should have a full expectation that no one is going to be introspecting or looking at that content.
+(CROSSTALK)
+ Sure. Well, when data is going over the Verizon network, I think it would be good for that to be as encrypted as possible, and such that Verizon wouldn't look at it, right? I think that's what people expect, and I don't know that being able to look at the data is required to — to deliver their service.
+That's how WhatsApp works too, so that's an app. It's a very lightweight app. It doesn't require us to know a lot of information about you, so we can offer that with full encryption, and therefore, we're not looking — we don't see the content.
+For a service like Facebook or Instagram, where you're sharing photos and then they — people want to access them from lots of different places. People kind of want to store that in a central place, so that way they can go access it from — from a lot of different devices.
+In order to do that, we need to have an understanding of what that content is. So I think the — the expectations of — of what Facebook will have knowledge of versus what an ISP will have knowledge of are just different.
+ Senator, could you repeat what the approaches are again?
+ Senator, those policies and the principles that you articulated are generally how we view our service already. So depending on the details of what — what your — the proposal actually ends up being — and the details do just matter a huge amount here — it's not clear that it would be a fundamental shift.
+But the details really matter and if this is something you're considering or working on, we would love to follow up with you on this because this is very important to get right.
+ Senator, yes. That's our — that's our approach. If there is an eminent threat of harm, we're going to take conservative position on that and make sure that we flag that and understand that more broadly. But overall, I want to make sure that we provide people with the most voice possible. I want the widest possible expression and I don't want anyone at our company to make any decisions based on the — the political ideology of the content.

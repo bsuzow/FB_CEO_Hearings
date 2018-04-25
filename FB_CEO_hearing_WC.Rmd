@@ -1,0 +1,39 @@
+---
+title: "FB CEO Hearings Wordclouds"
+author: "Bo Suzow"
+date: "April 23, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## FaceBook CEO Senator/House of Rep Hearings
+On April 10 & 11, 2018, Congressional hearings were held in which FaceBook CEO exchanged questions and answers with US lawmakers.  The transcripts of the both hearings are publicly available at the Washington Post website ([full transcript for Day 1 hearing ]("https://www.washingtonpost.com/news/the-switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-hearing/?utm_term=.3a46cd6da4a1"), [partial transcript for Day 2 hearing]("https://www.washingtonpost.com/news/the-switch/wp/2018/04/11/transcript-of-zuckerbergs-appearance-before-house-committee/?utm_term=.300276ffbe68"))
+
+This article utilizes The transcripts textual data that has been downloaded and processed in Python (3.6) code. The sanitized word tokens are stored in FB_CEO.txt.
+
+
+```{r}
+# read the work tokens file.
+
+
+# create a corpus from the tokens
+library(tm)
+fname="FB_CEO.txt"
+FB.text = readLines(fname)
+text.corpus <- Corpus(VectorSource(FB.text))
+
+# plot a wordcloud
+
+library(wordcloud)
+#generate wordcloud
+wordcloud(text.corpus,
+          min.freq = 2, 
+          scale=c(7,0.5),
+          colors=brewer.pal(8, "Dark2"), 
+          random.color= TRUE, 
+          random.order = FALSE, 
+          max.words = 300)
+```

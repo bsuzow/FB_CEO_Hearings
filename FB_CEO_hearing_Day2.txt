@@ -1,0 +1,599 @@
+ Thank you.
+Chairman Walden, Ranking Member Pallone and members of the committee, we face a number of important issues around privacy, security and democracy. And you will rightfully have some hard questions for me to answer.
+Before I talk about the steps we're taking to address them, I want to talk for a minute about how we got there. Facebook is an idealistic and optimistic company. For most of our existence, we focused on all the good that connecting people can bring.
+And, as Facebook has grown, people everywhere have gotten a powerful new tool for staying connected to the people they care about most, for making their voices heard and for building community and businesses.
+Just recently, we've seen the “Me Too” movement and the March for Our Lives organized, at least part, on Facebook. After Hurricane Harvey, people came together and raised more than $20 million for relief. And there are more than 70 million small businesses around the world that use our tools to grow and create jobs.
+ But it's clear now that we didn't do enough to prevent these tools from being used for harm, as well. And that goes for fake news, foreign interference in elections and hate speech, as well as developers and data privacy. We didn't take a broad enough view of our responsibility, and that was a big mistake.
+It was my mistake, and I am sorry. I started Facebook, I run it, and, at the end of the day, I am responsible for what happens here. So, now, we have to go through every part of our relationship with people to make sure that we're taking a broad enough view of our responsibility.
+It's not enough to just connect people. We have to make sure those connections are positive. It's not enough to just give people a voice. We need to make sure that voice isn't used to harm other people or spread misinformation. And it's not enough to just give people control of their information. We need to make sure that the developers that they share it with protect their information too.
+Across the board, we have a responsibility to not just give people tools, but to make sure that those tools are used for good.
+It's going to take some time to work through all the changes we need to make. But I am committed to getting this right, and that includes the basic responsibility of protecting people's information, which we failed to do with Cambridge Analytica.
+So here are a few key things that we're doing to address this situation and make sure that this doesn't happen again.
+First, we're getting to the bottom of exactly what Cambridge Analytica did, and telling everyone who may have been affected. What we know now is that Cambridge Analytica improperly obtained some information about millions of Facebook members by buying it from an app developer that people had shared it with.
+This information was generally information that people share publicly on their profile pages, like their name and profile picture and the list of pages that they follow. When we first contacted Cambridge Analytica, they told us that they had deleted the data. And then, about a month ago, we heard a new report that suggested that this was not true.
+So now we're working with governments in the U.S., the U.K. and around the world to do a full audit of what they've done and to make sure that they get rid of any data that they still have.
+Second, to make sure that no other app developers are out there misusing data, we're now investigating every single app that had access to a large amount of people's information on Facebook in the past. And, if we find someone that improperly used data, we're going to ban them from our platform and tell everyone affected.
+Third, to prevent this from ever happening again, we're making sure developers can't access as much information, going forward. The good news here is that we made some big changes to our platform in 2014 that would prevent this specific instance with Cambridge Analytica from happening again today.
+But there's more to do, and you can find more of the details of the other steps we're taking in the written statement I provided.
+My top priority has always been our social mission of connecting people, building community and bringing the world closer together. Advertisers and developers will never take priority over that for as long as I am running Facebook.
+I started Facebook when I was in college. We've come a long way since then. We now serve more than 2 billion people around the world, and, every day, people use our services to stay connected with the people that matter to them most.
+I believe deeply in what we're doing, and I know that, when we address these challenges, we'll look back and view helping people connect and giving more people a voice as a positive force in the world.
+I realize the issues we're talking about today aren't just issues for Facebook and our community; they're challenges for all of us as Americans. Thank you for having me here today, and I am ready to take your questions.
+ Thank you, Mr. Chairman.
+I consider us to be a technology company, because the primary thing that we do is have engineers who write code and build products and services for other people.
+There are certainly other things that we do, too. We — we do pay to help produce content. We build enterprise software, although I don't consider us an enterprise software company. We build planes to help connect people, and I don't consider ourselves to be an aerospace company.
+But, overall, when people ask us if we're a media company, what — what I hear is, “Do we have a responsibility for the content that people share on Facebook?” And I believe the answer to that question is yes.
+ Mr. Chairman, I do not consider ourselves to be a financial institution, although you're right that we do provide tools for people to send money.
+ Well, Mr. Chairman, I think we've evolved quite a bit as a company. When I started it, I certainly didn't think that we would be the ones building this broad of a community around the world. I thought someone would do it. I didn't think it was going to be us. So we've definitely grown.
+ Mr. Chairman, you're right that we don't sell any data. And I would say that we do try to explain what we do as — as time goes on. It's a — it's a broad system.
+You know, every day, about 100 billion times a day, people come to one of our products, whether it's Facebook or Messenger or Instagram or WhatsApp, to put in a piece of content, whether it's a — a photo that they want to share or a message they want to send someone.
+And, every time, there's a control right there about who you want to share it with. Do you want to share it publicly, to broadcast it out to everyone? Do you want to share it with your friends, a specific group of people? Do you want to message it to just one — one person or a couple of people? That's the most important thing that we do. And I think that, in the product, that's quite clear.
+I do think that we can do a better job of explaining how advertising works. There is a common misperception, as you say, that is just reported — often keeps on being reported, that, for some reason, we sell data.
+ I can't be clearer on this topic
+ Congressman, yes. We limit a lot of the data that we collect and use.
+ Congressman, yes. In — in response to these issues, we've changed a lot of the way that our platform works, so, that way, developers can't get access to as much information.
+ Congressman, we try to collect and — and give people the ability ...
+(CROSSTALK)
+ Congressman, this is a complex issue that I think is — deserves more than a one-word answer.
+ Yes.
+ Congressman, what we allowed — what we allow with our developer platform is for people to choose to sign into other apps and bring their data with them. That's something a lot of people want to be able to do.
+The reason why we built the developer platform in the first place was because we thought it would be great if more experiences that people had could be more social, so if you could have a calendar that showed your friends' birthdays; if you could have an address book that had pictures of your friends in it; if you could have a map that showed your friends' addresses on it.
+In order to do that, you need to be able to sign into an app, bring some of your data and some of your friends' data. And that's what we built.
+Now, since then, we have recognized that that can be used for abuse, too. So we've limited it, so now people can only bring their data when they go to an app.
+But that's something that a lot of people do on a day-to-day basis — is sign into apps and websites with their — with Facebook. And that's something that we're ...
+ Congressman, in that specific case, our team made an enforcement error. And we have already gotten in touch with them to reverse it.
+ Congressman, I do agree that we should work to give people the fullest free expression that is possible. That's what — when I talk about giving people a voice, that's what I care about.
+ Congressman, that's correct.
+ Congressman, we have a number of measures in place to protect minors specifically. We make it so that adults can't contact minors who they — they aren't already friends with. We make it so that certain content that may be inappropriate for minors, we don't show.
+The reality that we see is that teens often do want to share their opinions publicly, and that's a service that ...
+ Yes, we do.
+ Congressman, every time that someone chooses to share something on Facebook — you go to the app; right there, it says, “Who do you want to share with?” When you sign up for a Facebook account, it starts off sharing with just your friends.
+If you want to share publicly, you have to specifically go and change that setting to be sharing publicly. Every time ...
+ Congressman, this is an important question because I think people often ask what the difference is between surveillance and what we do. And I think that the difference is extremely clear, which is that, on Facebook, you have control over your information.
+The content that you share, you put there. You can take it down at any time. The information that we collect, you can choose to have us not collect. You can delete any of it, and, of course, you can leave Facebook if you want.
+I know of no surveillance organization that gives people the option to delete the data that they have, or even know what — what they're collecting.
+ Congressman, as I've said, every time that a person chooses to share something on Facebook, they're proactively going to the service and choosing that they want to share a photo, write a message to someone.
+And, every time, there is a control right there — not buried in settings somewhere, but right there, when they're — when they're posting ...
+ ... about who they want to share it with.
+ Congressman, since we learned about that, we've removed the option for advertisers to exclude ethnic groups from targeting.
+ Congressman, thank you, and let me say a couple of things on this. First, to your point about competition, the average American uses about eight different apps to communicate and stay connected to people.
+So there's a lot of competition that we feel every day. And — and that — that's — that's an important force that — that we — that we definitely feel when running the company.
+Second, on your point about regulation, the Internet is growing in importance around the world in people's lives, and I think that it is inevitable that there will need to be some regulation.
+So my position is not that there should be no regulation. But I also think that you have to be careful about what regulation you put in place for a lot of the reasons that you're saying.
+I think, a lot of times, regulation, by definition, puts in place rules that a company that is larger, that has resources like ours, can easily comply with, but that might be more difficult for a smaller start-up to — to comply with.
+ So I think that all things that need to be thought through very carefully when — when thinking through what — what rules we want to put in place.
+ Congressman, I'm not sure either. I'm not familiar with that specific case. It's quite possible that we made a mistake, and we'll follow up afterward to — on that.
+ Overall — yeah, we have — by the end of this year, we'll have about 20,000 people at the company who work on security and content-review-related issues.
+But there's a lot of content flowing through the systems and a lot of reports, and, unfortunately, we don't always get these things right when people report it to us.
+ Congresswoman, yes.
+ Yes. We are starting to notify people this week. We started Monday, I believe.
+ Congresswoman, yes. That's how our platform works. You have to opt in to sign in to any app before you use it.
+ Congresswoman, no, although we are currently going through the process of investigating every ...
+(CROSSTALK)
+ ... that had access to a large amount of data.
+ It means that we're going to look into every app that had a large amount of access to data in the past, before we lock down the platform. I ...
+ ... because there are tens of thousands of apps, we will find some ...
+(CROSSTALK)
+ ... and, when we find them ...
+ Yes.
+ Congresswoman, we are — have made and are continuing to make changes to reduce the amount of ...
+ Congresswoman, I'm not sure what that means.
+ Congresswoman, it might be useful to clarify what actually happened here. A developer does research ...
+(CROSSTALK)
+ Congresswoman, yes. When we learned in 2015 that a Cambridge University researcher associated with the academic institution that built an app that people chose to share their data with ...
+ Yes. I'm answering your question.
+ When — when we learned about that, we ...
+ Yes.
+ We shut down the app.
+ We got in touch with them, and we asked them to — to — we commanded that they delete any of the data that they had, and their chief data officer told us that they had.
+ Congressman, this is — this is an important question to clarify.
+So, in 2007, we launched the platform in order to make it so that people could sign in to other apps, bring some of their information and some of their friends' information, to have social experiences.
+This created a lot of innovative experiences — new games, companies like Zynga. There were companies that you're — that you're familiar with, like Netflix and Spotify — had integrations with this that allowed social experiences in their apps.
+But, unfortunately, there were also a number of apps that used this for abuse, to collect people's data ...
+ Yeah, there was abuse. And that's why, in 2014, we took the step of fundamentally changing how the platform works. So, now, when you sign into an app, you can bring your information, and, if a friend has also signed into the app, then we'll — then the app can know that you're friends, so you can have a social experience in that app.
+But, when you sign into an app, it now no longer brings information from other people.
+ Yes, Congressman. Good question. So we're going to start by doing an investigation, internally, of every single app that had access to a large amount of information, before we lock down the platform.
+If we detect any suspicious activity at all, we are working with third-party auditors — I imagine there will have to be a number of them, because there are a lot of apps — and they will conduct the audit for us.
+ Yes.
+ Yes, Congressman. Thank you for giving me the opportunity to clarify that.
+So one — one of the questions is — is, what information do we track, and why, about people who are not signed into Facebook. We track certain information for security reasons and for ads reasons.
+For security, it's to make sure that people who are not signed into Facebook can't scrape people's public information. You can — even when you're not signed in, you can look up the information that people have chosen to make public on their page, because they wanted to share it with everyone. So there's no reason why you should have to be logged in.
+But, nonetheless, we don't want someone to be able to go through and download every single public piece of information. Even if someone chose to make it public, that doesn't mean that it's good to allow someone to aggregate it. So, even if someone isn't logged in, we track certain information, like how many pages they're accessing, as a security measure.
+The second thing that we do is we provide an ad network that third-party websites and apps can run in order to help them make money. And those ads — you know, similar to what Google does and what the rest of the industry does — it's not limited to people who are just on Facebook.
+So, for the purposes of that, we may also collect information to make it so that those ads are more relevant and work better on those websites. There's a control that — for that second class of information around ad targeting — anyone can turn off, has complete control over it.
+For obvious reasons, we do not allow people to turn off the — the measurement that we do around security.
+ Congressman, it's something that we're looking into. We already took action by banning him from the platform, and we're going to be doing a full audit to make sure that he gets rid of all the data that — that he — that he has, as well.
+To your point about Cambridge University, what we've found now is that there's a whole program associated with Cambridge University where a number of researchers, not just Aleksandr Kogan — although, to our current knowledge, he's the only one who's sold the data to Cambridge Analytica — there were a number of other researchers who were building similar apps.
+So we do need to understand whether there was something bad going on at Cambridge University overall that will require a stronger action from us.
+ Congressman, we're not aware of any specific groups like that, that have — that have engaged in this. We are, as I've said, conducting a full investigation of any apps that had access to a large amount of data. And, if we find anything suspicious, we'll tell everyone affected.
+We do not allow hate groups on Facebook, overall. So, if — if there's a group that — their primary purpose or — or a large part of what they do is spreading hate, we will ban them from the platform, overall.
+ Sorry. Can you repeat that?
+ Congressman, yes. That's certainly an important thing that — that we need to do.
+ Congressman, yes. This is an extremely important area. After we were slow to identify the Russian information operations in 2016, this has become a top priority for our company — to prevent that from ever happening again, especially this year, in 2018, which is such an important election year with the U.S. midterms, but also major elections in India, Brazil, Mexico, Hungary, Pakistan and a number of other places.
+So we're doing a number of things that — that I'm — that I'm happy to talk about, or follow up with afterward, around deploying new A.I. tools that can proactively catch fake accounts that Russia or others might create to spread misinformation.
+And one thing that I'll — that I'll end on here, just because I — I know we're — we're running low on time, is, since the 2016 election, there have been a number of significant elections, including the French presidential election, the German election and, last year, the U.S. Senate Alabama special election.
+ And the A.I. tools that we deployed in those elections were able to proactively take down tens of thousands of fake accounts that may have been trying to do the activity that you're — that you're talking about. So our tools are getting better.
+For as long as Russia has people who are employed, who are trying to perpetrate this kind of interference, it will be hard for — for us to guarantee that we're going to fully stop everything.
+But it's an arms race, and I think that we're making ground and are — are doing better and better and are confident about how we're going to be able to do ...
+(CROSSTALK)
+ Congressman, yes.
+I think that it's really important for the service that people understand what they are doing and signing up for and how the service works. We have laid out all of what we do in the terms of service, because that's what is legally required of us.
+ Congressman, yes.
+We have a developer terms of service, which is separate from the normal terms of service for — for individuals using the service.
+ Congressman, I'm not sure what you mean by that.
+ Congressman, I think you're raising an important point, which is that I think, if someone wanted to know, they could. But I think that a lot of people probably just accept terms of service without taking the time to read through it.
+I view our responsibility not as just legally complying with laying it out and getting that consent, but actually trying to make sure that people understand what's happening throughout the product.
+That's why, every single time that you share something on Facebook or one of our services, right there is a control in line, where you control who — who you want to share with, because I don't just think that this is about a terms of service. It's contextual.
+You — you want to present people with the information about what — what they might be doing and give them the relevant controls in line, at the time that they're making those decisions, not just have it be in the background sometime, or up front — make a one-time decision.
+ That is — I'm not sure what you mean by extrapolating data.
+ Congressman, as you know, the FTC is investigating this. And we are certainly going to be complying with them and working with them on that investigation.
+ Yes, Congressman. All the same controls will be available around the world.
+ Yes, Congressman. We believe that everyone around the world deserves good privacy controls. We've had a lot of these controls in place for years. The GDPR requires us to do a few more things, and we're going to extend that to the world.
+ Congressman, we're going to put, at the top of everyone's app when they sign in, a tool that walks people through the settings and gives people the choices and — and asks them to make decisions on how they want their settings set.
+ Congressman, I think we may be updating it a little bit. But, as you say, we've had the ability to download your information for years now. And people have the ability to see everything that — that they have in Facebook, to take that out, delete their account and move their data anywhere that they want.
+ Congressman, I believe that all of your information is in that — that file.
+ Congressman, I'm not sure how we're going to implement that yet. Let me follow up with you on that.
+ Congresswoman, I believe that everyone owns their own content online. And that's — the first line of our terms of service, if you read it, says that.
+ Congresswoman, giving people control of their information and how they want to set their privacy is foundational to the whole service. It's not just a — kind of an add-on feature, something we have to ...
+ ... comply with.
+ The reality is, if you have a photo — if you just think about this in your day-to-day life ...
+ Congresswoman, I'm not directly familiar with the details of what you just said. But I certainly think that regulation in this area ...
+ Congresswoman, we don't think about what we're doing as censoring speech.
+I think that there are — there are types of content like terrorism that I think that we all agree we do not want to have on our service. So we build systems that can identify those and can remove that content, and we're very proud of that work.
+ Sorry, Congresswoman, I'm not familiar with ...
+ Of over that?
+ The market cap of the company was greater than that, yes.
+ Yes.
+ Yes.
+ Yes, that's correct.
+ Congresswoman, I'm not familiar with the details of that.
+ Yes.
+ Congresswoman, I — I get briefed on — on these things ...
+(CROSSTALK)
+ I'm not familiar with the details of it.
+ Congresswoman, I'm not familiar with ...
+(CROSSTALK)<br/> DEGETTE: You don't know about that one either.
+ I — I ...
+ ... I discuss them with — with our team, but I don't remember the exact details of them.
+ The FTC investigation?
+ Yes.
+ Congresswoman, I don't remember if we had a financial penalty.
+ I — I remember the consent decree. The consent decree is extremely important to how we operate the company.
+ Congressman, yes.
+ Congressman, I believe that those are — are — that we collect different data for those. But I can follow up on the details of — of that.
+ Congressman, let me follow up with you on that. That situation developed while I was here, preparing to testify, so I'm not ...
+ ... details on it.
+ Congressman, this is a really important question. There is absolutely no directive in any of the changes that we make to have a bias in anything that we do. To the contrary, our goal is to be a platform for all ideas ...
+(CROSSTALK)
+ Congressman, we didn't allow the Obama campaign to do anything that any developer on the platform wouldn't have otherwise been able to do.
+(CROSSTALK)
+ Yes, I ...
+(CROSSTALK)
+ Congressman, we pride ourselves on — on doing good technical work, yes.
+ Among other things.
+ Congressman, in 2015, when we heard that the developer on our platform, Aleksandr Kogan ...
+ That — that Aleksandr Kogan had ...
+DOYLE : ... reported by The Guardian?
+ ... sold data to Cambridge Analytica?
+ Yes.
+ Congressman, sometimes we do. I generally think that ...
+ Congressman, I disagree with that assessment. I do think that, going forward, we need to take a more proactive view of — of policing what the developers do. But, looking back, we've had an app review process. We investigate ...
+ ... tens of thousands of apps a year.
+ Congressman, we have a consent decree, yes.
+ Congressman, I'm not — I'm not familiar with all of the things that the FTC said, although I'm very familiar with the FTC ...
+ ... order, itself.
+ Congressman, respectfully, I disagree with that characterization. We've had a review process for apps for years. We've reviewed tens of thousands of apps a year and taken action against a number of them.
+Our process was not enough to catch a developer who sold data ...
+ ... that they had in their ...
+ ... outside of our system.
+ Congressman, we have not seen that activity.
+ I — not that I am aware of.
+ There are tens of thousands of apps that had access to a large amount of people's information before we locked down the platform in 2014. So we're going to do an investigation that first involves looking at their patterns of API access and what those companies were doing.
+And then, if we find anything suspicious, then we're going to bring in third-party auditors to go through their technical and physical systems to understand what they did.
+And, if they — we find that they misused any data, then we'll ban them from our platform, make sure they delete the data and tell everyone affected.
+ Yes, Congressman. It's going to take many months to do this full process.
+ And it's going to — it's going to be an expensive process with a lot of auditors. But we think that this is the right thing to do at this point.
+You know, before, we'd thought that, when developers told us that they weren't going to sell data, that that was — that that was a good representation. But one of the big lessons that we've learned here is that, clearly, we cannot just take developers' word for it. We need to go and enforce that.
+ Yes, Congressman, I'm — I'm aware of the audits that we do. We do audits every other year. They're ongoing. The audits have not found material issues with our privacy programs in place at the company.
+I think the broader question here is — we have had this FTC consent decree, but we take a broader view of what our responsibility for people's privacy is.
+And our — our view is that this — what a developer did — that they represented to us that they were going to use the data in a certain way, and then, in their own systems, went out and sold it — we do not believe is a violation of the consent decree. But it's clearly a breach of people's trust.
+And the standard that we hold ourselves to is not just following the laws that are in place. But we also — we just want to take a broader view of this in protecting people's information.
+ Sorry, can you repeat that?
+ Congressman, I believe we do provide the audits to the FTC.
+ Congressman, not personally, although I'm briefed on all of the audits by our team.
+ Congresswoman, we expect it to take many months.
+ I hope not.
+ Congresswoman, we can follow up with you to make sure you get all that information.
+ I don't believe it was a large number. But, as we complete the audits we will know more.
+ A handful.
+ Yes, Congresswoman. In 2015, when we first learned about it, we immediately demanded that the app developer and the firms that he sold it to delete the data. And they all represented to us that they had.
+It wasn't until about a month ago that new reports surfaced that suggested that they hadn't, which is what has kicked off us needing to now go do this full audit and investigation and investigate all these other apps that have come up.
+ Congresswoman, we need to complete the investigation and audit before I can confirm that.
+ What they represented to us is that they have. But we need to now get into their systems and confirm that before I want to stand up here confidently and say what they've done.
+ Congresswoman, the GDPR has a bunch of different, important pieces. One is around offering controls over specific — over every use of people's data.
+ That, we're doing.
+The second is around pushing for affirmative consent and putting a control in front of people that walks people through their — their choices.
+ We're going to do that too. The second — although that might be different, depending on the laws in specific countries and different places — but we're going to put a tool at the top of everyone's app that walks them through their settings and helps them understand what is going on.
+ Congresswoman, yes, I feel like we have a very important responsibility to outline what the content policies are and the community standards are.
+This is one of the areas that, frankly, I'm worried we're not doing a good enough job at right now, especially because, as an American-based company where about 90 percent of the people in our community are outside of the U.S., where there are different social norms and different cultures, it's not clear to me that our current situation of how we define community standards is going to be effective for articulating that around the world.
+So we're looking at different ways to evolve that, and I think that this is one of the more important things that we will do.
+MCMORRIS RODGERS: Okay.
+And, even focusing on content for here in America, I'd like to shift gears just a little bit and talk about Facebook's recent changes to its news feed algorithm.
+Your head of news partnerships recently said that Facebook is, quote, “taking a step to define what quality news looks like and give that a boost so that, overall, there is a less — there is less competition from news.”
+Can you tell me what she means by “less competition from news”? And also, how does Facebook objectively determine what is acceptable news and what safeguards exist to ensure that, say, religious or conservative content is treated fairly?
+ Yes, Congresswoman. I'm not sure specifically what that person was referring to, but I can walk you through what the algorithm change was, if that's useful.
+MCMORRIS RODGERS: Well, maybe I'll just go on to my other questions, then.
+There's an issue of content discrimination, and it's not a problem unique to Facebook. There's a number of high-profile examples of edge providers engaging in blocking and censoring religious and conservative political content.
+In November, FCC Chairman Pai even said that edge providers routinely block or discriminate against content they don't like. This is obviously a serious allegation.
+How would you respond to such an allegation? And what is Facebook doing to ensure that its users are being treated fairly and objectively by content reviewers?
+ Congresswoman, the principle that we're a platform for all ideas is something that I care very deeply about. I'm worried about bias, and we take a number of steps to make sure that none of the changes that we make are targeted at — in any kind of biased way.
+And I'd be happy to follow up with you and go into more detail on that, because I agree that this is a serious issue.
+MCMORRIS RODGERS: Over Easter, a Catholic university's ad with a picture of a historic San Damiano cross was rejected by Facebook. Though Facebook addressed the error within days, that it happened at all is deeply disturbing.
+Could you tell me what was so shocking, sensational or excessively violent about the ad to cause it to be initially censored? Given that your company has since said that it did not violate terms of service, how can users know that their content is being viewed and judged accordingly — to objective standards?
+ Congresswoman, it sounds like we made a mistake there, and I apologize for that. And, unfortunately, with the amount of content in our systems and the current systems that we have in place to review, we make a relatively small percent of mistakes in content review. But that can be — that's — that's too many. And this is an area where we need to improve.
+What I — what I will say is that I wouldn't extrapolate from a few examples, to assuming that the overall system is biased. I — I get how people can — can look at that and draw that conclusion, but I don't think that that reflects the — the way that we're trying to build the system or what we've seen.
+ I agree.
+MCMORRIS RODGERS: And that is going to be important as we move forward.
+Thank you, and I yield back.
+ Congressman, I think that that's a good idea and we should follow up on it. From the conversations that I have with my fellow leaders in the tech industry, I — I know that this something that we all understand that the whole industry is behind on. And Facebook is certainly a big part of that issue.
+And we care about this not just from the justice angle, but because we know that having diverse, different viewpoints is what will help us serve our community better, which is ultimately what we're here to do. And I think we know that the industry is behind on this and want to ...
+(CROSSTALK)
+ Congressman, this is an issue that we're — we're focused on. We have a broader leadership than just five people. I mean ...
+ I understand that.
+ Congressman, we will certainly work with you. This is an important issue.
+ Congressman, we — we try to include a lot of important information in the diversity updates. I will go discuss that with my team after I get back from this hearing.
+ Congressman, that's correct. And a different developer could have built that app.
+ Congressman, the big difference between these cases is that, in — in the Kogan case, people signed into that app expecting to share the data with Kogan, and then he turned around and, in violation of our policies and in violation of people's expectations, sold it to a third-party firm — to Cambridge Analytica, in this case.
+ I — I think that we — we were very clear about how the platform worked at the time — that anyone could sign into an app and they'd be able to bring their information, if they wanted, and some information from their friends.
+People had control over that. So, if you wanted, you could — you could turn off the ability to sign into apps, or turn off the ability for your friends to be able to bring your information. The platform worked the way that we had designed it at the time.
+I think we now know that we should have a more restrictive platform where people cannot also bring information from their friends, and can only bring their own information. But that's the way that system worked at the time.
+ Congressman, what I think people are — are rightfully very upset about is that an app developer that people had shared data with sold it to someone else and, frankly, we didn't do enough to prevent that or understand it soon enough.
+ And now we have to go through and — and put in place systems that prevent that from happening again and — making sure that we have sufficient controls in place in our ecosystem so, that way, developers can't abuse people's data.
+ Congresswoman, I — I believe that people own all of their own content. Where this gets complicated is — let's say I take a photo and I share it with you. Now, is that my photo, or is it your photo?
+I — I would take the position that it's our photo, which is why we make it so that you can bring — it's — that I can bring that — that photo to another app, if I want, but you can't.
+ Sorry. Can you clarify that?
+ Congresswoman, all the data that you put in, all the content that you share on Facebook is yours. You control how it's used. You can remove it at any time. You can get rid of your account and get rid of all of it at once. You can ...
+(CROSSTALK)
+ Congresswoman, I — I disagree with that, because one core tenet of our advertising system is that we don't sell data to advertisers. Advertisers don't get access to your data.
+There's a — there's a core misunderstanding about how that system works, which is that — let's say if you're — if you're a shop, and you're selling muffins, right, it's — you might want to target people in a specific town who might be interested in baking, or — or some demographic.
+But we don't send that information to you. We just show the message to the right people. And that's a really important, I think, common misunderstanding ...
+ ... about how this system works.
+ Yes, Congresswoman, we run ads. That's the — the business model is running ads. And we use the data that people put into the system in order to make the ads more relevant, which also makes them more valuable.
+But it's — what we hear from people is that, if they're going to see ads, they want them to be good and relevant ...
+(CROSSTALK)
+ No, you have complete control over that.
+ Congressman, yes. This is extremely important. And I think the — the point that you raise is particularly important — that we've heard in — today a number of examples of — where we may have made content review mistakes on conservative content. But I can assure you that there are a lot of folks who think that we make content moderation or content review mistakes of liberal content, as well.
+ We will review it and get back to you.
+ Yes, Congressman, I do. We were trying to balance two equities
+On the other hand, we also need to balance making sure that everyone's information is protected. And I think that we — we didn't get that balance right up front.
+ We do not believe it did. But, regardless, we take a broader view of what our responsibility is to protect people's privacy. And, if a developer who people gave their information to — in this case, Aleksandr Kogan — then goes and, in violation of — of his agreement with us, sells the data to Cambridge Analytica, that's a big issue.
+And I think people have a right to be very upset. I'm upset that that happened. And we need to make sure that we put in place the systems to prevent that from happening again.
+ Congresswoman, I believe that we ...
+ Congresswoman, I — I'm not sure — I don't think that that's what we're tracking.
+ Congresswoman ...
+ That's right, that we — that we understand, in order to show which of your friends liked a page ...
+ Congressman — Congresswoman ...
+ I — I — I actually — if they share it with us. But Congresswoman, overall, I — I'm ...
+ Congresswoman, I don't think any of those buttons share transaction data. But broadly, I — I disagree with the characterization.
+(CROSSTALK)
+ Congresswoman, yes, we collect some data for security purposes, and ...
+(CROSSTALK)
+ Congresswoman, everyone has control over how that works.
+ Congresswoman, I disagree with that characterization.
+ Congresswoman, the primary way that Facebook works is that people choose to share data, and they share content because they're trying to communicate.
+(CROSSTALK)
+ Congresswoman, we just announced two weeks ago that we were going to stop interacting with data brokers, and even though that's an industry norm, to make it so that the advertising can be more relevant ...
+ No, Congressman. You're — you're right. I mean, this is ad-based business models have been a common way that people have been able to offer free services for a long time. And our social mission of trying to help connect everyone in the world relies on having a service that can be affordable for everyone; that everyone can use. And that's why the ads business model is in service of the social mission that we have, and you know, I think sometimes that gets lost, but I think that's a really important point.
+ Well, Congressman, it would make the ads less relevant. So what we ...
+ And — yeah. It would — it would reduce — it would have a number of effects. For people using the services, it would make the ads less relevant to them. For businesses, like the small businesses that use advertising, it would make advertising more expensive, because now they would have to reach — they would have to pay more to reach more people, and efficiently, because targeting helps small businesses be able to afford and — and reach — and reach people as effectively as big companies have typically had the ability to do for a long time.
+It would affect our revenue some amount too, but I think one — there are a couple of points here that are lost. One is that we already give people a control to not use that data and ads, if they want. Most people don't do that. I think part of the reason for that is that people get that if they are going to see ads, that they want them to be relevant.
+But the other thing is that our — a lot of what our business — what makes the ads work, or what makes the business good is just that people are very engaged with Facebook. We have more than a billion people who spend almost an hour a day across all our services.
+ If you delete your account, we immediately make it so that your account is — is no longer available, once you're — once you're done deleting it. So no one can find you on the service. We wouldn't be able to re-create your account from that.
+We do have data centers and systems that are redundant, and we have backups in case something bad happens. And, over a number of days, we'll — we'll go through and make sure that we flush all the content out of the system.
+But, as soon as you delete your account, effectively, that content is — is dismantled and we wouldn't be able to put your account back together if we wanted to.
+ Do you want me to ...
+ Congressman, I can quickly respond to the first point, too.
+(CROSSTALK)
+ Congressman ...
+ ... we ...
+ We offer sales support to every campaign.
+ Congressman, the — the Trump campaign had sales support ...
+ Congressman, I do not, sitting here off the top of my head.
+
+Congressman, we apply the same standard to all campaigns.
+ Congressman ...
+ ... what I'm — yes. What I'm saying is that ...
+ ... following the same standards.
+ Mr. Chairman, do you mind, for the record, if I just answer the first point for — for ...
+ ... take 10 seconds.
+ When I was referring to the campaigns yesterday, I meant the DNC and RNC. So I may have misspoken, and maybe, technically, that's called the committees. But that — those were the folks who I was referring to.
+ Well, Congressman, I view our responsibility as not just building services that people like to use, but making sure that those services are also good for people and good for society overall.
+At the time, there were a number of questions about whether people seeing content that was either positive or negative on social networks was affecting their mood.
+And we felt like we had a responsibility to understand whether that was the case, because we don't want to have that effect, right? We don't want to have it so that — we want use of social media and our products to be good for people's well-being.
+I mean, we continually make changes to — to that effect, including, just recently, this year, we did a number of research projects that showed that when social media is used for building relationships — and so when you're interacting with people, it's associated with a lot of positive effects of — of well-being that you'd expect. It — it makes you feel more connected, less lonely, it correlates with long term measures of happiness and health.
+Whereas if you're using social media or the Internet just to passively consume content, then that doesn't have those same positive effects or can even be negative. So we've tried to shift the product more towards helping people interact with friends and family as a result of that. So that's the kind of — an example of the kind of work that we — that we do.
+ Yes.
+ Yes. The 27,000 number is full time employees. And the security and content review includes contractors, of which there are tens of thousands. Or will be. Will be by the time that we hire those.
+(CROSSTALK)
+ Well, Congressman, the — the issue with Cambridge Analytica and Alexander Kogan happened before we ramped those programs up dramatically. But one thing that I think is important to understand overall is just the sheer volume of content on Facebook makes it so that we can't — no amount of people that we can hire will be enough to review all of the content.
+We need to rely on and build sophisticated A.I. tools that can help us flag certain content. And we're getting good in certain areas. One of the areas that I mentioned earlier was terrorist content, for example, where we now have A.I. systems that can identify and — and take down 99 percent of the al-Qaeda and ISIS-related content in our system before someone — a human even flags it to us. I think we need to do more of that.
+ Yes, Congressman. We have a “download your information” tool. We've had it for years. You can go to it in your settings and download all of the content that you have on Facebook.
+ Congressman, that would be correct. If — if we don't have content in there, then that means that — that you don't have it on Facebook. Or you haven't put it there.
+ Congressman, my understanding is that all of your information is included in your “download your information.”
+ Congressman, we're working on doing that as quickly as possible. I don't have the exact date yet.
+ We're working on it.
+ Well, Congressman, let me first just set aside that my position isn't that there should be no regulation.
+ But regardless of what the laws are that are in place, we have a very strong incentive to protect people's information. This is the core thing that Facebook is, is about 100 billion times a day people come to our service to share a photo or share a message or ...
+(CROSSTALK)
+ Congressman, this is an incredibly high priority for us. What I was saying before, that the core use of the product every day, about 100 billion times, is that people come and try to share something with a specific set of people. That works because people have confidence that if they send a message, it's going to go to the person that they want. If they want to share a photo with their friends, it's going to go to the people they want. That's incredibly important. We've built a — a robust privacy program. We have a chief privacy officer ...
+ Congressman, I believe ...
+ No, of course not.
+ Congressman, I'm not ...
+ ... aware of his quote, but I heard that he — that he said something. And let me just speak to this for a second ...
+(CROSSTALK)
+ Congressman, I think that there are a number of areas of content that we need to do a better job policing on our service.
+Today, the primary way that content (inaudible) — regulation works here, and review, is that people can share what they want openly on the service, and then, if someone sees an issue, they can flag it to us, and then we will review it.
+Over time, we're shifting to a mode where ...
+(CROSSTALK)
+ Congressman, right now, when people report the posts to us, we will take them down and have people ...
+ Congressman, I agree that this is a terrible issue, and, respectfully, when there are tens of billions or 100 billion pieces of content that are shared every day, even 20,000 people reviewing it can't look at everything.
+What we need to do is build more A.I. tools that can proactively find that content.
+ Yes.
+ Congressman, yes, of course.
+ Yes, Congressman.
+ Congressman, that seems like a reasonable principle to me.
+ Congressman, that one might be more interesting to debate, because ...
+ Yes, Congressman, and they have that ability.
+ Congressman, I certainly think that that's an area where we should discuss some sort of oversight.
+ Congressman, I think that's — this is an area where some regulation makes sense. You proposed a very specific thing, and I think the details matter.
+ Congressman, yes, and I'll make sure that we work with — with you to flesh this out.
+ Congressman, in — in general, the way we approach data and law enforcement is, if we have knowledge of imminent harm — physical harm that might happen to someone, we try to reach out to local law enforcement in order to help prevent that.
+I think that that is less built out around the world. It is more built out in the U.S. So, for example, on that example, we built out specific programs in the U.S.
+(CROSSTALK)
+ We have 3,000 people that are help — that are focused on making sure that, if we detect that someone is at risk of harming themselves, we can get them the appropriate ...
+(CROSSTALK)
+ The — the second category of — of information is when there is a valid legal process served to us. In general, if a government puts something out that's overly broad, we're going to fight back on it. We view our duty as protecting people's information.
+But, if there is valid service, especially in the U.S., we will, of course, work with law enforcement. In general, we are not in the business of providing a lot of information to the Russian government.
+ Sorry, can you repeat that?
+ Well, Congressman, in general, countries do not have jurisdiction to have any valid legal reason to request data of someone outside of their country.
+ We don't store any data in Russia.
+ Yes.
+ Sorry, Congressman, could you repeat that?
+ Yes.
+ Congressman, let me be more precise in my testimony.
+ I have no specific knowledge of any data that we've ever given to Russia. In general, we'll work with valid law enforcement requests in different countries, and we can get back to you on what that might mean with Russia, specifically. But I have no knowledge, sitting here, of any time that we would have given them information.
+ Yes, Congressman. This is an important issue, and it's — fake accounts, overall, are a big issue, because that's how a lot of the — the other issues that we see around fake news and foreign election interference are happening, as well.
+So, long-term, the solution here is to build more A.I. tools that find patterns of people using the services that no real person would do. And we've been able to do that in order to take down tens of thousands of accounts, especially related to election interference leading up to the French election, the German election and, last year, the U.S. Alabama Senate state election — Senate election — special election.
+And that's an area where we should be able to extend that work and develop more A.I. tools that can do this more broadly.
+ Congressman, I'm not specifically familiar with that. The feature that we identified — I think it was a few weeks ago, or a couple weeks ago, at this point — was a search feature that allowed people to look up some information that people had publicly shared on their profiles.
+ So names, profile pictures, public information.
+ Congressman, in general, we collect data of people who have not signed up for Facebook for security purposes, to prevent the kind of scraping that you were just referring to.
+ Congressman, I'm not — I'm not familiar with that ...
+(CROSSTALK)
+ I do not know off the top of my head.
+ Congressman, I do not off the top of my head, but I can have our team get back to you afterwards.
+ Congressman, anyone can turn off and opt out of any data collection for ads, whether they use our services or not.
+But, in order to prevent people from scraping public information, which — again, the search feature you brought up only showed public information — people's names and profiles and things that they had made public. But, nonetheless, we don't want people aggregating even public information.
+ ... block that, so we need to know when someone is trying to repeatedly access our services ...
+ Congressman, we're working with the right authorities on that, and I'm happy to answer specific questions here, as well.
+ Yes, Congressman. We will certainly follow up with you on this.
+Part of the mission of connecting everyone around the world means that everyone needs to be able to be on the Internet. And, unfortunately, too much of the Internet infrastructure today is too expensive for the current business models of carriers to support a lot of rural communities with the quality of service that they deserve.
+So we are building a number of specific technologies, from planes that can beam down Internet access, to repeaters and mesh networks to make it so that — that all these communities can be served. And we'd be happy to follow-up with you on this to ...
+(CROSSTALK)
+ Congressman, without weighing in on that specific piece of content, let me outline the way that we approach fighting fake news in general.
+There are three categories of fake news that we fight. One are basically spammers. They're economic actors, like — like the Macedonian trolls that I think we have all heard about — basically, folks who do not have an ideological goal. They're just trying to write the most sensational thing they can, in order to get people to click on it so they can make money on ads. It's all economics.
+So the way to fight that is we make it so they can't run our ads, they can't make money. We make it so we can detect what they're doing and show it in less in news feeds, so they can make less money. When they stop making money, they just go and do something else, because they're economically inclined.
+The second category are basically state actors, right, so what we've found with Russian interference. And those people are setting up fake accounts. So, for that, we need to build A.I. systems that can go and identify a number of their fake account networks.
+And, just last week, we traced back the Russian activity to — to specific — a fake account network that Russia had in Russia to influence Russian culture and other Russian-speaking countries around them.
+And we took down a number of their fake accounts and pages, including a news organization that was sanctioned by Russian — by the Russian government as a Russian state news organization. So that's a pretty big action. But removing fake accounts is the other way that we can fake — stop the spread of false information.
+ Yes, Congressman. That's actually the third category that I was going to get to next, after economic spammers and state actors with fake accounts.
+One of the things we're doing is working with a number of third parties who — so, if people flag things as — as false news or — or incorrect, we run them by third-party fact checkers, who are all accredited by the — this Pointer Institute of Journalism. There are ...
+ ... firms of all — of all leanings around this, who do this work, and that's — that's an important part of the effort.
+ Congressman, my understanding is that, if there's — if we have information from you visiting other places, then you have a way of getting access to that and deleting it and making sure that we don't store it anymore.
+In the specific question that the — the other congressman asked, I think it's possible that we just didn't have the information that he was asking about in the first place, and that's why it wasn't there.
+ Congressman, I think we're responsible for protecting people's information, for sure. But one thing that you said that I — that I want to provide some clarity on ...
+ Well, you said earlier — you referenced that you thought that we were only taking action after this came to light. Actually, we made significant changes to the platform in 2014 that would have made this incident with Cambridge Analytica impossible to happen again today.
+I wish we'd made those changes a couple of years earlier, because this poll app got people to use it back in 2013 and 2014. And, if we had made the changes a couple of years earlier, then we would have — then we ...
+(CROSSTALK)
+ Congressman, if people flag those ads for us, we will take them down now.
+ Yes.
+ If people flag them for us, we will look at them as quickly as we can ...
+(CROSSTALK)
+ The ads that are flagged for us, we will review and take down, if they violate our policies, which I believe the ones ...
+(CROSSTALK)
+ ... but — but what I think really needs to happen here is not just us reviewing content that gets flagged for us. We need to be able to build tools that can proactively go out and identify what might be these — these ads for — for opioids, before people even have to flag them for us to review.
+ And that's — that's going to be a longer term thing, in order to build that solution. So — but, today, if someone flags the ads for us, we will take them down.
+ Congressman, that clearly sounds like a big issue and something that would violate our policies. I don't have specific knowledge of that case, but what I imagine happened, given what you just said, is that they reported it to us and one of the people who reviews content probably made an enforcement error.
+And then, when you reached out, we probably looked at it again and realized that it — that it violated the policies, and took it down. We have a number of steps that we need to take to improve the accuracy of our enforcement.
+ That's — that's a big issue. And we have to check content faster ...
+ ... and we need to — to be able to do better at this. I think the same solution to the opioid question that you raised earlier, of doing more with automated tools, will lead to both faster response times, and more accurate enforcement of the policies.
+ Congresswoman, I agree that we need to work on diversity. In this specific case, I don't think that that was the issue, because we were, frankly, slow to identifying the whole Russian misinformation operation, and not just that specific example.
+Going forward, we're going to address this by verifying the identity of every single advertiser who's running political or issue-oriented ads, to make it so that foreign actors or people trying to spoof their identity or say that they're someone that they're not cannot run political ads or run large pages of the type you're talking about.
+ Congresswoman, we announced a change in how we're going to review ads and big pages so that, now, going forward, we're going to verify the identity and location of every advertiser who's running political or issue ads or — and the identities ...
+(CROSSTALK)
+ That will be in place for these elections.
+ Yes, Congresswoman.
+ No, Congresswoman, it did not.
+ Of course.
+ Congressman, it's a combination of both. So, at the end of the day, we have — we have community standards that are written out, and try to be very clear about what's — what is acceptable.
+And we have a large team of people. As I said, by the end of this year, we're going to have about 20,000 — more than 20,000 people working on security and content review across the company.
+But, in order to flag some content quickly, we also build technical systems in order to take things down. So, if we see terrorist content, for example, we'll flag that, and we can — we can take that down.
+ Congressman, for content reviewers specifically, their performance is going to be measured by whether they do their job accurately, and ...
+ I — I'm — I'm sure we do. As is part of the normal course of — of running a company, you — you're hiring and firing people all the time to grow your capacity, and — and to ...
+(CROSSTALK)
+ Congressman, I'm not specifically aware of that case.
+ We will.
+ Yes.
+ Yes.
+ Congressman, we don't sell people's data. So I think that that's an important thing to clarify up front. And then, in terms of collecting data, I mean, the whole purpose of the service is that you can share the things that you want with the people around you, right, or — and your friends. So ...
+ Well, Congressman, it would be possible for our business to exist without having a developer platform. It would not be possible for our business to — or — or our products or our services or anything that we do to exist without having the opportunity for people to go to Facebook, put in the content that they want to share and who they want to share it with, and then go do that. That's the core thing that ...
+(CROSSTALK)
+ Congressman, for the developer platform changes that we announced, they're implemented. We're putting those into place. We announced a bunch of specific things. It's on our — our blog, and I wrote it in my written testimony, and that stuff is happening.
+We're also going back and investigating every single app that had access to a large amount of data before we locked down the platform in the past. We will tell people if we find anything that misused their data, and we will tell people when the investigation is complete.
+ Congressman, part of what I just said is that we're going to do an investigation of every single app that had access to a large amount of people's data. If you — if you signed into another app, then that probably has access to some of your data.
+And part of the investigation that we're going to do is — is to determine whether those app developers did anything improper, or shared that data further, beyond that. And, if we find anything like that, we will tell people that their — that their data was misused.
+ No, Congressman. FaceMash was a — a prank website that I launched in college, in my dorm room, before I started Facebook. There was a movie about this — or it said it was about this. It was of unclear truth. And the — the claim that FaceMash was somehow connected to the development of Facebook — it isn't. It wasn't.
+(CROSSTALK)
+ It was in 2003.
+(CROSSTALK)
+ ... took it down, and it actually has nothing to do with Facebook.
+ Congressman, that is an accurate description of the prank website that I made when I was a sophomore in college.
+ I do.
+ I — I believe — is that Diamond and Silk?
+ Well, Congressman, nothing is unsafe about that. The specifics of — of this situation, I — I'm not as up to speed on as — as I probably would be ...
+(CROSSTALK)
+ Congressman, so you're right that, in 2015, when we found out that the app developer, Aleksandr Kogan, had sold data to Cambridge Analytica, we reached out to them. At that point, we demanded that they delete all the data that they had.
+They told us, at that point, that they had done that. And then, a month ago, we heard a new report that said that they actually hadn't done that.
+ The audit team that we are sending in?
+ The first order of business is to understand exactly what happened. And ...
+(CROSSTALK)
+ Congressman, I do not believe that we have. And ...
+(CROSSTALK)
+ ... one specific point on this is that our audit in the — of Cambridge Analytica — we have paused that in order to cede to the U.K. government, which is conducting its own government audit, which, of course — an investigation which, of course ...
+(CROSSTALK)
+ Congressman, yes. What I'm saying is that the U.K. government is going to complete its investigation before we go in and do our audit. So they will have full access to all the information.
+ Yes, we've — we've — we've paused it, pending theirs.
+ Congressman, yes. We have a document retention policy at the company where, for some people, we delete emails after a period of time, but we, of course, preserve anything that there's a legal hold on.
+ Well, Congressman, I would disagree that we allow it. We actually expressly prohibit any developer that people ...
+(CROSSTALK)
+ Yes, Congressman. Some of it is — is in response to reports that we get, and some of it is we do spot checks to make sure that the apps are actually doing what they — what they say they're doing. And, going forward, we're going to increase the number of audits that we do, as well.
+ Congressman ...
+ ... Congressman, you have control over what we do for — for ads and the information collection around that. On security, there may be specific things about how you use Facebook, even if you're not logged in, that we — that we keep track of, to make sure that people aren't abusing the systems.
+ ... Congressman, you have control over what we do for — for ads and the information collection around that. On security, there may be specific things about how you use Facebook, even if you're not logged in, that we — that we keep track of, to make sure that people aren't abusing the systems.
+ Congressman, we're not collecting any information verbally on the microphone, and we don't have contracts with anyone else who is.
+The only time that we might use the microphone is when you're recording a video or doing something where you intentionally are trying to record audio. But we don't have anything that is trying to listen to what's going on in the background.
+ Congressman, we do. I don't think we have a policy that says that your phone can't be on. And, again, I'm not that — I'm not familiar with — Facebook doesn't do this, and I'm not familiar with other companies that — that do, either.
+My understanding is that a lot of these cases that you're talking about are a coincidence, or someone is — might be talking about something, but then they also go to a website or interact with it on Facebook, because they were talking about it, and then maybe they'll see the ad because of that, which is a much clearer statement of the — the intent.
+ Yes.
+ Congressman, the way this works is — let's say you have a business that is selling skis, Okay, and you have on your profile that you are interested in skiing. But let's say you haven't made that public, but you share it with your — with your friends, all right?
+So, broadly, we don't tell the advertiser that — “Here's a list of people who like skis.” They just say, “Okay, we're trying to sell skis. Can you reach people who like skis?” And then we match that up on our side, without sharing any of that information with the advertisers.
+ Congressman, no. And I — I also would push back on the idea that we're giving them access to the data. We allow them to reach people who have said that on Facebook, but we're not giving them access to data.
+ Congressman, I'm not sure I understand the question. Can you — can you give me an example of what you mean?
+ Yes.
+So, Congressman, my understanding is that the targeting options that are — that are available for advertisers are generally things that are based on what people share.
+Now, once an advertiser chooses how they want to target something, Facebook also does its own work to help rank and determine which ads are going to be interesting to which people.
+ So we may use metadata or other behaviors of what you've shown that you're interested in on news feed or other places in order to make our systems more relevant to you. But that's a little bit different from giving that as an option to an advertiser, if that makes sense.
+ Congressman, I — I agree that we should be a platform for all ideas, and that we should focus on that.
+ I ...
+ Congressman, yes. In general, I mean, I think that people own their ...
+(CROSSTALK)
+ Congressman, these sound relatively accurate.
+ Congressman, I don't think so. There are — there are a couple of big issues here. One is what happened specifically with Cambridge Analytica — how were they able to buy data from a developer that people chose to share it with? And how do we make sure that that can't happen again?
+ People had it on Facebook, and then chose to share theirs and some of their friends' information with this developer, yes.
+ Congressman, we just recently announced that we were stopping working with data brokers as part of the ad system. It's ...
+ It's — it's an industry standard ad practice, and, recently, upon examining all of our systems, we decided that's not a thing that we want to be a part of, even if everyone else is doing it.
+ Yes, until we announced that we're shutting it down. Yes.
+ Congressman, I don't believe that. I think that there may have been a specific factual inaccuracy that we ...
+ ... that specific point, yes.
+ Congressman, you're right that we apologized after they posted the story. They had the — most of the details of what was — of what was right there.
+ And I don't think we objected to that.
+ There was a specific thing ...
+(CROSSTALK)
+ Congressman, I'm — I am definitely committed to taking a broader view of our responsibility. That's what my testimony is about, making sure that we don't just give people tools, but make sure that they're used for good.
+ Congresswoman, thanks for the question. Terrorist content and propaganda has no place in our network and we have developed a number of tools that have now made it so that 99 percent of the ISIS and al-Qaeda content that we take down is identified by the systems and taken down before anyone our system even flags it for us.
+So that's an example of removing harmful content that we're proud of, and I think is a model for other types of harmful content as well.
+ Congressman, it's a good question, and it's a combination of technology and people. We have a counterterrorism team at Facebook.
+ Two hundred people are just focused on counterterrorism, and there are other content reviewers who are reviewing content that gets flagged to them as well. So those are folks who are working specifically on that. I think we have capacity in 30 languages that we're working on.
+In addition to that we have a number of A.I. tools that we're developing, like the ones that I mentioned that can proactively go flag the content.
+ Yes so there's ...
+ Yes.
+ So we identify what might be the patterns of communication or messaging that they might put out and then design systems that can proactively identify that and flag those for our teams. That way we can go and take those down.
+ Thank you. We will.
+And, Mr. Chairman, if you don't mind before we go to the next question, there was something I wanted to correct in my testimony from earlier, when I went back and talked to my team afterwards.
+ I'd said that if — if — this was in response to a question about whether web logs that — that we had about a person would be able to download your information. I had said that they were. And I clarified with my team that in fact, the Web logs are not and download your information. We only store them temporarily, and we convert the Web logs into a set of ad interests, that you might be interested in those ads, and we put that in the “download your information” instead, and you have complete control over that. So I just wanted to clarify that one for the record.
+ Congressman, in retrospect, it was a mistake and we should and I wish we had identified — notified and told people about it.
+ The reason why we didn't ...
+ Yes, Congressman, I don't believe that — that we necessarily had a legal obligation to do so. I just think it was probably ...
+ ... I think that it was the right thing to have done. The reason why we didn't do it at the time ...
+ Absolutely.
+ Congressman, regardless of what the laws or regulations are that are in place, we take a broader view of our responsibilities around privacy, and I think that we should have notified people, because it would have been the right thing to do, and I've committed ...
+(CROSSTALK)
+ Congressman, I think it's an idea that deserves a lot of consideration. I think — I — I'm not the type of person who thinks that there should be no regulation, especially because the Internet is getting to be so important in people's lives around the world. But I think the details on this really matter, and whether it's an agency, or a law that is passed, or the FTC has certain abilities, I — I that is — is is all something that we should be ...
+ Congressman, we look forward to following up, too.
+ Congressman, I believe that people should have the ability to choose to share their data how they want, and they need to understand how that's working. But I — I agree with what you're saying, that people want to have the ability to move their data to another app, and we want to give them the tools to — to do that.
+ Yes, Congressman. On — on most devices, the way the operating systems is architected would prevent something that you do in another app like Google from being visible to — to the Facebook app.
+ Congressman, yes, we — we collect information to make sure that the ad experience on Facebook can be relevant and valuable to small businesses ...
+ ... and — and others who want to reach people.
+ Congressman, yes, there is. There is a setting, so if you don't want any data to be collected around advertising, you can — you can turn that off, and then we won't do it.
+In general, we offer a lot of settings over every type of information that you might want to share on Facebook, in every way that you might interact with the system, from here's the content that you put on your page, to here is who can see your interests, to here's how you might show up in — in search results if people look for you, to here's how the — how you might be able to sign into developer apps, and login with Facebook, and — and advertising. And we — we try to make the controls as easy to understand as possible. You know, it's a — it's a broad service. People use it for a lot of things, so there are a number of controls, but we try to make it as easy as possible, and — and to put those controls in front of people so that they can configure the experience in a way that they want.
+ Thank you.
+ Congressman, I think that that makes sense to discuss, and I agree with the broader point that I think you're making, which is that the Internet and technology overall is just becoming a much more important part of all of our lives.
+The — the companies in the technology industry are — are growing ...
+ Congressman, it's certainly something that we can consider, although one thing that I would push back on is I think it is often characterized as maybe these mistakes happen because there's some conflict between what people and business interests. I actually don't think that's the case. I think a lot of these hard decisions come down to different interests between different people.
+So for example, on the one hand people want the ability to sign into apps and bring some of their information and bring some of their friend's information in order to have a social experience. And on the other hand, everyone wants their information locked down and completely private. And the question is — it's not a business question as much as which of those equities do you weigh more?
+ Congressman, well there are — there are a lot of things that the — that the Europeans do, and — and I think that — I think that GDPR in general is — is going to be a very positive step for the Internet, and it codifies a lot of the things in there are things that we've done for a long time. Some of them are things that — that I think would be — would be good steps for us to take. So for example, the controls that — that this requires, are generally controls, privacy controls that we've offered around the world for years.
+Putting the tools in front of people repeatedly, not just having them in settings, but putting them in front of people and getting — and making sure that people understand what the controls are and that they get affirmative consent, I think it's a good thing to do that we've done periodically in the past, but I think it makes sense to do more, and I think that's something the GDPR will — will require us to do and — and will be positive.
+ I would — I need to think about that more.
+ I did.
+ Congressman, I'm not — I'm not specifically aware of — of that threat, but in general, there are a number of national security and election integrity-type issues that we focus on, and we try to take a very broad view of that. And the more input that we can get from the intelligence community as well, encouraging us to — to look into specific things, the more effectively we can do that work.
+ Congressman, this is an important question. So there are a couple of standards. The strongest one is things that will cause physical harm, or threats of physical harm, but then there is a broader standard of — of hate speech and speech that might make people feel just broadly uncomfortable or unsafe in the community.
+ Congressman, that's a very important question, and I think is — is one that we struggle with continuously, and the question of, what is hate speech versus what is legitimate political speech is, I — I think, something that we get criticized both from the left and the right on what the definitions are that we have.
+It's — it is — it's nuanced, and what we try to — we try to lay this out in our community standards, which are public documents, that we can make sure that you and your — your office get to look through the definitions on this, but this is an area where I think society's sensibilities are also shifting quickly, and it's also very different and ...
+(CROSSTALK)
+ I agree.
+ Congressman, thank you.
+So, before 2014 when we announced the change, a — someone could sign into an app and share some of their data, but also could share some basic information about their friends. And in 2014 the major change was we said, now you're not going to be able to share any information about your friends. So if you and your friend both happen to be playing a game together or on an app that — listening to music together, then that app could have some information from both of you because you both had signed in and authorized that app. But other than that, people wouldn't be able to share information from their friends.
+So that the basic issue here were 300,000 people used this poll and came — and the app and then ultimately sold it to Cambridge Analytica and Cambridge Analytica had access to as many as 87 million people's information wouldn't be possible today. Today if 300,000 people used an app, the app might have information about 300,000 people.
+ Thank you.
+ Congressman, I — I don't sitting here today remember a lot of the specifics of — of early on, but we saw generally a bunch of app developers who were asking for permissions to access people's data in ways that weren't connected to the functioning of an app. So they'd just say, Okay, if you want to log in to my app, you — you would have to share all this content, even though the app doesn't actually use that in any reasonable way. So we looked at that and said, hey, this isn't — this isn't right.
+Or we should review these apps and make sure that if an app developer's going to ask someone to access their data that they actually have a reason why they want to access to it. And over time, that we — we made a series of changes that culminated in the major change in 2014 that I referenced before where ultimately we made it so now a person could sign in but not bring their friends information with them anymore.
+ Congressman, it would be difficult to ever guarantee that any single — that — that — that there are — that there are no bad actors. Every problem around security is — is sort of an arms race, where you have people who are trying to abuse systems, and our responsibility is to make that as hard as possible and to take the — the necessary precautions for a company of our scale. And I think that the responsibility that we have is growing with our scale and we need to make sure that we ...
+ Congressman, yes politically. Although I — I — I think what you — when I hear that what I hear is kind of normal political speech. We certainly are not going to allow ads for terrorist content for example so ...
+ ... banning those views.
+(CROSSTALK)
+ Sorry, could you repeat that?
+ Congresswoman, so when you're using the service, if you share a photo, for example, and you say “I only want my friends to see it,” then in news feed and Facebook, only your friends are going to see it. If you then go to a website and then you want to sign into that website, that website can ask you and say “Hey, here are the things that — that I want to get access to in order for you to use the website.”
+If you sign in after seeing that screen where the website is asking for certain information, then you are also authorizing that website to have access to that information. If you've turned off the platform completely, which is what the control is that you have on the left, then you wouldn't be able to sign in to another website. You'd have to go reactivate this before that would even work.
+ Congresswoman, I think that these, that the settings when you're signing into an app are quite clear in terms of, every time you go to sign into an app, you have to go through a whole screen that says “Here's the app, here's your friends who use it, here are the pieces of information that it would like to have access to.” You make a decision whether you sign in, yes or no. And until you say “I want to sign in,” nothing gets shared.
+Similarly, in terms of sharing content, every single time that you go to upload a photo, you have to make a decision — it's right there at the top, it says “are you sharing this with your friends or publicly or with some group,” and every single time that's — that's quite clear. So in those cases, yes, I think that this is quite clear.
+ Congresswoman, we typically do two things. We have a settings page that has all of your settings in one place in case you want to go and play around or configure your settings. But the more important thing is putting the settings in line when you're trying to make a decision. So if you're going to share a photo now, we think that your setting about who you want to share that photo with should be in line right there.
+If you're going to sign into an app, we think that the — it should be very clear right in line when you're signing into the app what permissions that app is asking for. So we do both. It's both in one place in settings if you want to go to it, and it's in line in the relevant place.
+ Can you repeat that?
+ What was the other piece?
+ Well, Congresswoman, I think that privacy is not something that you can ever — it's — our understanding of the issues between people and how they interact online only grows over time. So I think we'll figure out what the social norms are and the rules that we want to put in place. Then five years from now, we'll come back and we'll have learned more things and either that'll just be that social norms have evolved and the company's practices have evolved or we'll put rules in place.
+But I think that our understanding of this is going to evolve over quite a long time. So I would expect that even if a state like California's forward-leaning, that's not necessarily going to mean that we fully understand everything or have solved all the issues.
+ Congresswoman, I don't know the answer to that off the top my head, but we'll get back to you.
+ I believe we've served the like button on pages more than that, but I don't know the number of pages that have the like button on actively.
+ I don't know the answer to that exactly off the top my head either, but that's something that we can follow up with you on.
+ Congresswoman, you're asking some specific stats that I don't know off the top of my head, but we can follow up with you and get back to you on all of these.
+ Congresswoman, I will talk to my team and we will follow up.
+ Congresswoman, as I've said a number of times, we're now going to investigate every single app that access to a large amount of people's information in the past before we lock down the platform.
+I do imagine that we will find some apps that — that were either doing something suspicious or misused people's data, if we find them, then we will ban them from the platform, take action to make sure they delete the data and make sure that everyone involved is informed.
+ As soon as we find them.
+ Yes, Congressman. So there are a few parts of GDPR that I think are important and — and good. One is making sure that people have control over how each piece of information that they share used.
+So people should have the ability to know what a company knows about them, to control and have a setting about who can see it and to be able to delete it whenever they want. The second set of things is making sure that people actually understand what the tools are that are available.
+So not just having it in some settings page somewhere, but put the tools in front of people so that they can make a decision. And that both builds trust and makes inside people's experiences are configured in the way that they want.
+That's something that we've done a number of times over the years at Facebook. But with GDPR, we will now be doing more and around the whole world. The third piece is there are some very sensitive technologies that I think are important to enable innovation around like face recognition, but that you want to make sure that you get special consent for.
+Right, it's if we — if we make it too hard for American companies to innovate in areas like facial recognition, then we will lose to Chinese companies and other companies around the world where — that are able innovate in that.
+ Congressman, I think that that's a — that's a good question. And I think that this is something that probably — that — that we should — that people should have control over, how it is used and that we're going to be rolling out and asking people whether they want us to use it for them around the world as part of this — this push that's upcoming. But I think in general for — for sensitive technologies like that, I do think you want a special consent.
+ And I think that's a — that would be a valuable thing to consider.
+ Congressman ...
+ Congressman, I'm not familiar with how the term is legally used.
+ Well, Congressman, let me put it this way, there is content that we fund, specifically in video today.
+ And when we're commissioning a video to be created, then I certainly think we have full responsibility ...
+ ... of owning — of owning that content.
+ But the vast majority of the content on Facebook is not something that we commissioned. For that, I think our responsibility is to make sure that the content on Facebook is not harmful, that people are seeing things that are relevant to them and that encourage interaction and building relationships with the people around them. And that, I think, is — is the primary responsibility that we have.
+ Thank you.
+ I did not know that specifically.
+ Yes.
+ Yes, especially among certain demographics.
+ Congressman, I will make sure that someone is there. (Inaudible).
+ Congressman, I was not specifically aware of that, but I think we — we know that — that there are issues with content like this, that we need more proactive monitoring for.
+ Congressman, I have not heard that.
+ Congressman, I believe that has been an issue for a long time.
+ Congressman yes, we take this very seriously. That's a big part of the reason overall these content issues why, by the end of this year, we're going to have more than 20,000 people working on security and content review.
+And we need to build more tools, too.
+ Well Congressman, I think that we can all agree that certain content like terrorist propaganda should have no place on our network. And the First Amendment, my understanding of it, is that that kind of speech is allowed in the world.
+I just don't think that it is the kind of thing that we want to allow to spread on the Internet. So once you get into that, you're already — you're deciding that you — you take this value that you care about safety. And that we don't want people to be able to spread information that can cause harm.
+And I think that that — it — our general responsibility is to — is to allow the broadest spectrum of free expression as we can ...
+ Well Congressman, I think that we — we make a number of mistakes in content review today that I don't think only focus on one political persuasion. And I think it's unfortunate that when those happen, people think that we're focused on them.
+And it happens in different political groups, and it's — we have ...
+ Thank you.
+ Congressman, I agree that this is very important, and I — I miscommunicated if I left the impression that we weren't proactively going to work on tools to take down this content, and we're only going to rely on people to flag it for us.
+Right now, I think underway, we have efforts to focus not only on ads, which has been most of the — the majority of the questions, but a lot of people share this stuff in groups, too, and the — the free part of the products that aren't paid, and we need to get that content down, too.
+I understand how big of an issue this is. Unfortunately, the enforcement isn't — isn't perfect. We do need to make it more proactive, and I'm committed to doing that.
+ Congressman, let me answer that in a second, and before — before I get to that, on your last point, the content reviewers who we have are not primarily located in — in — in Silicon Valley. So I think that — that's — that was an important point, and ...
+ ... I do worry about the general bias of people in Silicon Valley. But the — the majority of the folks doing content review are — are around the world in different places.
+To your question about net neutrality, I think that there's a big difference between Internet service providers and platforms on top of them. And the big reason is that, well, I just think about my own experience.
+When I was starting Facebook, I had one choice of an Internet service provider. And if I had to potentially pay extra in order to make it so that people could have Facebook as an option for something that they used, then I'm not sure that we'd be here today. Platforms, there are just many more.
+So it may be true that a lot of people choose to use Facebook. The average American, I think, uses about eight different communication and social network apps to stay connected to people. And just as clearly correct or true that there are more choices on platforms. So even though they can reach large-scale, I think the pressure of just having one or two in a place does require us to think a little bit ...
