@@ -1,3 +1,7 @@
+
+
+```python
+%matplotlib inline
 # -*- coding: utf-8 -*-
 """
 Created on Fri Apr 20 10:58:43 2018
@@ -62,3 +66,46 @@ FB_WC2 = hearing_text_output(Day2)
 """
 End of main
 """
+
+```
+
+    
+    Day1 Hearing:
+    
+      total number of tokens: 21608
+      total number of unique words or punctuations: 1821
+      lexical diversity: 0.08427434283598667
+    
+    
+
+
+![png](output_0_1.png)
+
+
+
+![png](output_0_2.png)
+
+
+    
+    Day2 Hearing:
+    
+      total number of tokens: 19144
+      total number of unique words or punctuations: 1672
+      lexical diversity: 0.0873380693689929
+    
+    
+
+
+![png](output_0_4.png)
+
+
+
+![png](output_0_5.png)
+
+
+
+
+
+    '\nEnd of main\n'
+
+

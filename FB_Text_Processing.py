@@ -28,7 +28,7 @@ def Tokenize(text_data,hearing_day):
         text_data: a list obj of paragraphs scraped from the web
         hearing_day: 1 for the first day; 2 for the 2nd
         
-    Return Values:
+    Return values:
         1. Sanitized word tokens from text_data in a list object of strings/words
         2. Word tokens frequency distribution (FreqDist())
     """
@@ -55,11 +55,14 @@ def Tokenize(text_data,hearing_day):
     remove_words = set(stopwords.words('english')+punc+more_common_words)
     
     tokens_net = [i for i in nltk.word_tokenize(all_text.lower()) if i not in remove_words]
-   
-    print("total number of tokens: {}".format(len(tokens)))
-    print("total number of unique words or punctuations: {}".format(len(set(tokens))))
+    print()
+    print("Day"+str(hearing_day)+" Hearing:")
+    print()
+    print("  total number of tokens: {}".format(len(tokens)))
+    print("  total number of unique words or punctuations: {}".format(len(set(tokens))))
     lexical_diversity = len(set(tokens))/len(tokens)
-    print("lexical diversity: {}".format(lexical_diversity))
+    print("  lexical diversity: {}".format(lexical_diversity))
+    print()
     
     """
     Calculate frequencies
