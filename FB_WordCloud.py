@@ -6,7 +6,7 @@ Created on Mon Apr 23 09:33:29 2018
 
 ref: http://ramiro.org/notebook/sherlock-holmes-canon-wordcloud/
 
-https://github.com/amueller/word_cloud/blob/master/examples/masked.py (better example for a WC with a shape)
+https://github.com/amueller/word_cloud/blob/master/examples/masked.py 
 
 https://amueller.github.io/word_cloud/generated/wordcloud.WordCloud.html
 """
@@ -31,17 +31,17 @@ def grey_color(word, font_size, position, orientation, random_state=None, **kwar
 
 def word_cloud(text):
     """
-    Plot a wordcloud with FB CEO hearings in April 10 & 11, 2018
+    Plot a wordcloud using FB CEO congressional hearing text.
 
     """
     #mpl.style.use('dark')
     limit = 200
     infosize = 12
     
-    chartinfo = 'Author: Bo Suzow'
+    #chartinfo = 'Author: Bo Suzow'
     #footer = "Frequently spoken words.\n{}".format(limit, chartinfo)
     #font = '/usr/share/fonts/truetype/ubuntu-font-family/Ubuntu-B.ttf'
-    fontcolor='#fafafa'   # gray98
+    #fontcolor='#fafafa'   # gray98
     #bgcolor = '#000000'  # black
     bgcolor = "#FFFFFF"   # white
     wordcloud = WordCloud(
