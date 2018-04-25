@@ -8,7 +8,7 @@ Created on Fri Apr 20 10:58:43 2018
 
 @author: bsuzow
 
-This purpose of this project is to identify most spoken words by FB's CEO during the Senate hearings in April 10 & 11, 2018.
+This purpose of this project is to identify most spoken words by FB's CEO during the congressional hearings in April 10 & 11, 2018.
 
 - Web scraping
 - Textual data transformation/load
