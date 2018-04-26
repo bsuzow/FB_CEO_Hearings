@@ -8,7 +8,7 @@ Created on Fri Apr 20 10:58:43 2018
 
 @author: bsuzow
 
-This purpose of this project is to identify most spoken words by FB's CEO during the congressional hearings in April 10 & 11, 2018.
+This purpose of this project is to identify most spoken words by FB's CEO during the Senate hearings in April 10 & 11, 2018.
 
 - Web scraping
 - Textual data transformation/load
@@ -32,8 +32,9 @@ def hearing_text_output(word_list_tuple):
     
     freq_words = word_list_tuple[1].most_common()
     # Plot
+    
     word_list_tuple[1].plot(30)
-    #word_list_tuple[1].plot(50, cumulative=True)
+    #word_list_tuple[1].plot(30, cumulative=True)
     
     return freq_words
 

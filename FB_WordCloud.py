@@ -48,9 +48,12 @@ def word_cloud(text):
     
     ).generate(text)
     
-    fig = plt.figure()
-    fig.set_figwidth(14)
-    fig.set_figheight(18)
+    #fig = plt.figure()
+    #fig.set_figwidth(14)
+    #fig.set_figheight(18)
+    
+    fig = plt.gcf()
+    fig.set_size_inches(12,8)
     
     plt.imshow(wordcloud.recolor(color_func=grey_color, random_state=3),interpolation="bilinear")
     
